@@ -1,0 +1,13472 @@
+1   aabb 
+
+1   ab 
+
+1   abbaci 
+
+1   abbr 
+
+1   abcdefghijklmnopqrstuvwxyz 
+
+1   abce 
+
+1   abde 
+
+1   abroad 
+
+1   absolutely 
+
+1   abstractly 
+
+1   abu 
+
+1   acb 
+
+1   accepted 
+
+1   accepting 
+
+1   accepts 
+
+1   accession 
+
+1   accessor 
+
+1   accessors 
+
+1   accidentally 
+
+1   accompany 
+
+1   accomplishing 
+
+1   accounted 
+
+1   accuracy 
+
+1   accurately 
+
+1   acde 
+
+1   achieves 
+
+1   acquires 
+
+1   acquiring 
+
+1   acronyms 
+
+1   activities 
+
+1   adam 
+
+1   adapt 
+
+1   addison 
+
+1   addk 
+
+1   addlist 
+
+1   addwordcharacters 
+
+1   addwordsfromfile 
+
+1   adjusting 
+
+1   admits 
+
+1   admittedly 
+
+1   adobe 
+
+1   adopted 
+
+1   adventures 
+
+1   adversely 
+
+1   advertises 
+
+1   advised 
+
+1   aeinrst 
+
+1   aesthetics 
+
+1   afterward 
+
+1   ages 
+
+1   aggressive 
+
+1   agree 
+
+1   aid 
+
+1   aids 
+
+1   airports 
+
+1   akin 
+
+1   albrecht 
+
+1   alexandria 
+
+1   algebraic 
+
+1   algorithmically 
+
+1   aliased 
+
+1   alight 
+
+1   align 
+
+1   aligns 
+
+1   alike 
+
+1   alive 
+
+1   alley 
+
+1   allocations 
+
+1   allowable 
+
+1   alphabetically 
+
+1   alternated 
+
+1   alternating 
+
+1   alto 
+
+1   am 
+
+1   ambitious 
+
+1   amenable 
+
+1   amiss 
+
+1   amos 
+
+1   amscray 
+
+1   anagram 
+
+1   analogy 
+
+1   ancestors 
+
+1   animals 
+
+1   animation 
+
+1   anniversary 
+
+1   announceresult 
+
+1   answering 
+
+1   anticipated 
+
+1   antithesis 
+
+1   anyway 
+
+1   apocryphal 
+
+1   apparatus 
+
+1   appealing 
+
+1   appending 
+
+1   appends 
+
+1   appleway 
+
+1   appoint 
+
+1   appointed 
+
+1   apportioned 
+
+1   appropriately 
+
+1   architectures 
+
+1   areacodes 
+
+1   arithmetically 
+
+1   arpa 
+
+1   arranging 
+
+1   arthropod 
+
+1   arthropoda 
+
+1   artificially 
+
+1   artist 
+
+1   ashtray 
+
+1   aspect 
+
+1   assemblage 
+
+1   assemblages 
+
+1   assembly 
+
+1   assessments 
+
+1   associating 
+
+1   asterisks 
+
+1   astronomers 
+
+1   atoi 
+
+1   attached 
+
+1   attaches 
+
+1   attack 
+
+1   attackers 
+
+1   attacks 
+
+1   attempting 
+
+1   attic 
+
+1   attracted 
+
+1   atypical 
+
+1   au 
+
+1   audiences 
+
+1   aura 
+
+1   austen 
+
+1   authoritative 
+
+1   authorship 
+
+1   automate 
+
+1   autumn 
+
+1   auxiliary 
+
+1   averagelist 
+
+1   averaging 
+
+1   awake 
+
+1   awfully 
+
+1   axc 
+
+1   axes 
+
+1   bac 
+
+1   backdrop 
+
+1   backtracked 
+
+1   backtracks 
+
+1   bacteria 
+
+1   badly 
+
+1   baggins 
+
+1   balin 
+
+1   baltimore 
+
+1   banjo 
+
+1   barrier 
+
+1   bars 
+
+1   baseline 
+
+1   basics 
+
+1   basing 
+
+1   battle 
+
+1   bay 
+
+1   bbc 
+
+1   bca 
+
+1   bcde 
+
+1   beacon 
+
+1   beast 
+
+1   bee 
+
+1   bees 
+
+1   beforehand 
+
+1   begun 
+
+1   behaving 
+
+1   belief 
+
+1   believing 
+
+1   belt 
+
+1   benares 
+
+1   bend 
+
+1   benefits 
+
+1   beryllium 
+
+1   beware 
+
+1   bf 
+
+1   bidirectionaliterator 
+
+1   bidirectioniterator 
+
+1   bifur 
+
+1   bigcities 
+
+1   bigger 
+
+1   biggest 
+
+1   billion 
+
+1   biologists 
+
+1   biology 
+
+1   birth 
+
+1   bizarre 
+
+1   bks 
+
+1   blind 
+
+1   blinking 
+
+1   blows 
+
+1   bofur 
+
+1   bokeper 
+
+1   bookkeeper 
+
+1   boolalpha 
+
+1   booleans 
+
+1   border 
+
+1   borders 
+
+1   boring 
+
+1   boron 
+
+1   bothers 
+
+1   bought 
+
+1   bounding 
+
+1   bp 
+
+1   brace 
+
+1   brahmins 
+
+1   brain 
+
+1   breadthfirstsearch 
+
+1   breathing 
+
+1   briefly 
+
+1   brin 
+
+1   broadcast 
+
+1   broadly 
+
+1   browsing 
+
+1   bs 
+
+1   buffers 
+
+1   buffet 
+
+1   bulk 
+
+1   bump 
+
+1   bunch 
+
+1   bundle 
+
+1   burdened 
+
+1   busily 
+
+1   businesses 
+
+1   busy 
+
+1   buying 
+
+1   cab 
+
+1   cables 
+
+1   cain 
+
+1   calenhad 
+
+1   came 
+
+1   canada 
+
+1   cancel 
+
+1   canon 
+
+1   canvases 
+
+1   capitalized 
+
+1   capitalizing 
+
+1   captivating 
+
+1   capture 
+
+1   captured 
+
+1   carbon 
+
+1   cardinality 
+
+1   carrying 
+
+1   casino 
+
+1   cassert 
+
+1   castling 
+
+1   casual 
+
+1   catches 
+
+1   cautionary 
+
+1   cba 
+
+1   ceases 
+
+1   ceil 
+
+1   celebrate 
+
+1   censored 
+
+1   censorship 
+
+1   centimeters 
+
+1   champion 
+
+1   characterization 
+
+1   characterizes 
+
+1   charitable 
+
+1   charm 
+
+1   chars 
+
+1   charts 
+
+1   cheap 
+
+1   cheaper 
+
+1   cheating 
+
+1   checker 
+
+1   checkerboard 
+
+1   checklist 
+
+1   checkoutline 
+
+1   checksudokusolution 
+
+1   chinese 
+
+1   chink 
+
+1   chip 
+
+1   chips 
+
+1   circling 
+
+1   circuitry 
+
+1   cited 
+
+1   civilizations 
+
+1   claim 
+
+1   clarifying 
+
+1   clarity 
+
+1   classic 
+
+1   classics 
+
+1   classify 
+
+1   cleanup 
+
+1   clemens 
+
+1   clicking 
+
+1   clicks 
+
+1   climate 
+
+1   climb 
+
+1   climbs 
+
+1   clouds 
+
+1   cluster 
+
+1   cntrrvltnrs 
+
+1   cockadoodledoo 
+
+1   cofounder 
+
+1   cognitive 
+
+1   cohesive 
+
+1   coinage 
+
+1   coincidence 
+
+1   colder 
+
+1   collapse 
+
+1   collecting 
+
+1   collective 
+
+1   collector 
+
+1   colloquial 
+
+1   colloquially 
+
+1   colony 
+
+1   comfortable 
+
+1   comfortably 
+
+1   comite 
+
+1   commercially 
+
+1   commission 
+
+1   commissionedemployee 
+
+1   commitment 
+
+1   committee 
+
+1   commodities 
+
+1   commonancestor 
+
+1   commonplace 
+
+1   comparatively 
+
+1   compared 
+
+1   compensated 
+
+1   competing 
+
+1   competitive 
+
+1   competitors 
+
+1   complain 
+
+1   complementary 
+
+1   completions 
+
+1   complicating 
+
+1   composites 
+
+1   composition 
+
+1   compounds 
+
+1   comprehend 
+
+1   compress 
+
+1   compressed 
+
+1   comprise 
+
+1   compromise 
+
+1   compromised 
+
+1   computations 
+
+1   concatenate 
+
+1   conceive 
+
+1   concentrate 
+
+1   conclude 
+
+1   concluded 
+
+1   concludes 
+
+1   concluding 
+
+1   conclusions 
+
+1   conclusively 
+
+1   condense 
+
+1   conditioned 
+
+1   conduct 
+
+1   conducting 
+
+1   confer 
+
+1   conflicts 
+
+1   confused 
+
+1   connectivity 
+
+1   conserve 
+
+1   conserves 
+
+1   considerations 
+
+1   constituent 
+
+1   constructions 
+
+1   consult 
+
+1   consulting 
+
+1   consume 
+
+1   containers 
+
+1   containsprefix 
+
+1   contesting 
+
+1   continuous 
+
+1   contrasts 
+
+1   contribute 
+
+1   contributed 
+
+1   controversial 
+
+1   conveniently 
+
+1   converges 
+
+1   conversational 
+
+1   cooper 
+
+1   coordinator 
+
+1   copycstring 
+
+1   copyediting 
+
+1   core 
+
+1   corporation 
+
+1   corrected 
+
+1   corrective 
+
+1   corrects 
+
+1   cosdegrees 
+
+1   cosine 
+
+1   cosines 
+
+1   costly 
+
+1   coulda 
+
+1   council 
+
+1   counter 
+
+1   counterclockwise 
+
+1   counterplays 
+
+1   counterrevolutionaries 
+
+1   countfifteens 
+
+1   counthanoimoves 
+
+1   country 
+
+1   countspaces 
+
+1   covers 
+
+1   crawling 
+
+1   createordinalform 
+
+1   createprimeset 
+
+1   createregularplural 
+
+1   createtower 
+
+1   creativity 
+
+1   creators 
+
+1   creature 
+
+1   credible 
+
+1   cressida 
+
+1   crete 
+
+1   cried 
+
+1   critics 
+
+1   crossbones 
+
+1   crossing 
+
+1   crumble 
+
+1   crunchers 
+
+1   cryptographic 
+
+1   ctime 
+
+1   cube 
+
+1   cubists 
+
+1   cubit 
+
+1   culprit 
+
+1   cultivate 
+
+1   cultural 
+
+1   curriculum 
+
+1   customary 
+
+1   cuts 
+
+1   cutstock 
+
+1   cyan 
+
+1   cycled 
+
+1   cypher 
+
+1   daddies 
+
+1   dash 
+
+1   dashed 
+
+1   dating 
+
+1   daughter 
+
+1   deadly 
+
+1   dealing 
+
+1   decays 
+
+1   december 
+
+1   deceptive 
+
+1   decline 
+
+1   decomposes 
+
+1   decremented 
+
+1   decrypt 
+
+1   dedicated 
+
+1   deducing 
+
+1   deepens 
+
+1   deeper 
+
+1   deeply 
+
+1   defeat 
+
+1   defeats 
+
+1   defense 
+
+1   definitely 
+
+1   degenerates 
+
+1   delay 
+
+1   delegates 
+
+1   deliberately 
+
+1   delivered 
+
+1   delos 
+
+1   delving 
+
+1   demanded 
+
+1   demarcation 
+
+1   demonstrated 
+
+1   demystify 
+
+1   denying 
+
+1   department 
+
+1   depended 
+
+1   dependency 
+
+1   derivatives 
+
+1   descriptions 
+
+1   designates 
+
+1   designating 
+
+1   desire 
+
+1   desires 
+
+1   despair 
+
+1   desserts 
+
+1   destructively 
+
+1   detailing 
+
+1   deteriorate 
+
+1   deteriorates 
+
+1   deterministically 
+
+1   detroit 
+
+1   devastating 
+
+1   developers 
+
+1   devised 
+
+1   devoted 
+
+1   di 
+
+1   diagrammatically 
+
+1   diagramming 
+
+1   dialogs 
+
+1   diamonds 
+
+1   dichotomies 
+
+1   dictate 
+
+1   dictates 
+
+1   dictionaries 
+
+1   diego 
+
+1   differentiated 
+
+1   differentiating 
+
+1   dignified 
+
+1   dilemma 
+
+1   directional 
+
+1   disable 
+
+1   disaster 
+
+1   disbelief 
+
+1   discard 
+
+1   discards 
+
+1   disciplined 
+
+1   disciplines 
+
+1   disconcerting 
+
+1   disconnected 
+
+1   discount 
+
+1   discounted 
+
+1   discouraged 
+
+1   discuss 
+
+1   dishwasher 
+
+1   disparities 
+
+1   disparity 
+
+1   dispatched 
+
+1   displace 
+
+1   displaybuffer 
+
+1   displaygame 
+
+1   displaymove 
+
+1   disposal 
+
+1   disposed 
+
+1   disputed 
+
+1   distracted 
+
+1   districts 
+
+1   diving 
+
+1   documents 
+
+1   dome 
+
+1   dominance 
+
+1   doomed 
+
+1   doors 
+
+1   dori 
+
+1   dorrit 
+
+1   dotted 
+
+1   doubled 
+
+1   downhill 
+
+1   download 
+
+1   draft 
+
+1   drafting 
+
+1   dragging 
+
+1   drastic 
+
+1   drawback 
+
+1   dream 
+
+1   drew 
+
+1   drive 
+
+1   drop 
+
+1   due 
+
+1   dust 
+
+1   duty 
+
+1   dwalin 
+
+1   dynamics 
+
+1   eastward 
+
+1   eaten 
+
+1   economic 
+
+1   economical 
+
+1   economists 
+
+1   ed 
+
+1   editions 
+
+1   effectiveness 
+
+1   efforts 
+
+1   electrical 
+
+1   elizabethan 
+
+1   elongated 
+
+1   embarked 
+
+1   embeddedwords 
+
+1   embedding 
+
+1   embody 
+
+1   embrace 
+
+1   emerging 
+
+1   emphatic 
+
+1   empirically 
+
+1   emulate 
+
+1   enabled 
+
+1   encapsulated 
+
+1   encodes 
+
+1   encompass 
+
+1   encompasses 
+
+1   encountering 
+
+1   encouraged 
+
+1   encourages 
+
+1   encrypted 
+
+1   ended 
+
+1   endif 
+
+1   endless 
+
+1   endows 
+
+1   enemy 
+
+1   enforce 
+
+1   engineered 
+
+1   engraving 
+
+1   enhance 
+
+1   enhances 
+
+1   enjoyable 
+
+1   enjoyed 
+
+1   ensnare 
+
+1   ensues 
+
+1   entirety 
+
+1   entities 
+
+1   entrant 
+
+1   entrenched 
+
+1   entryway 
+
+1   episode 
+
+1   equations 
+
+1   equinox 
+
+1   equivalently 
+
+1   erasing 
+
+1   erelas 
+
+1   eric 
+
+1   errorexception 
+
+1   es 
+
+1   establishes 
+
+1   establishing 
+
+1   eugen 
+
+1   europe 
+
+1   european 
+
+1   evaluations 
+
+1   eve 
+
+1   everyday 
+
+1   evidence 
+
+1   evolve 
+
+1   exacerbate 
+
+1   exacting 
+
+1   examination 
+
+1   examines 
+
+1   exch 
+
+1   excitement 
+
+1   exclamation 
+
+1   excursion 
+
+1   exhaustive 
+
+1   expedient 
+
+1   expenses 
+
+1   experimental 
+
+1   explained 
+
+1   explaining 
+
+1   explode 
+
+1   exploded 
+
+1   explosion 
+
+1   explosive 
+
+1   expmatch 
+
+1   exposing 
+
+1   exposure 
+
+1   expresses 
+
+1   external 
+
+1   extracts 
+
+1   extravagant 
+
+1   extreme 
+
+1   extremes 
+
+1   eye 
+
+1   fabs 
+
+1   facilitate 
+
+1   factoring 
+
+1   facts 
+
+1   faded 
+
+1   failed 
+
+1   failing 
+
+1   failures 
+
+1   fair 
+
+1   fairness 
+
+1   familytree 
+
+1   fanciful 
+
+1   farm 
+
+1   fascinating 
+
+1   favorite 
+
+1   fearsome 
+
+1   fed 
+
+1   felt 
+
+1   ffb 
+
+1   fifth 
+
+1   fili 
+
+1   fillregion 
+
+1   findbogglewords 
+
+1   findcell 
+
+1   finddominatingset 
+
+1   findeaster 
+
+1   findmajorityelement 
+
+1   findminimumspanningtree 
+
+1   findmove 
+
+1   findpath 
+
+1   fingers 
+
+1   finishing 
+
+1   fires 
+
+1   firmly 
+
+1   fission 
+
+1   fixes 
+
+1   flame 
+
+1   flames 
+
+1   flash 
+
+1   flat 
+
+1   flier 
+
+1   flip 
+
+1   flips 
+
+1   flown 
+
+1   fluctuate 
+
+1   fluent 
+
+1   fluidity 
+
+1   fluidly 
+
+1   fluorine 
+
+1   foldconstants 
+
+1   font 
+
+1   foot 
+
+1   forbidding 
+
+1   foreman 
+
+1   forerunner 
+
+1   forever 
+
+1   forgot 
+
+1   formalism 
+
+1   formalized 
+
+1   formicidae 
+
+1   formsdominochain 
+
+1   formulae 
+
+1   formulate 
+
+1   formulations 
+
+1   foster 
+
+1   foundations 
+
+1   fractional 
+
+1   fragmentary 
+
+1   fragmented 
+
+1   fragments 
+
+1   framing 
+
+1   frankenstein 
+
+1   freedom 
+
+1   freestanding 
+
+1   frequent 
+
+1   friday 
+
+1   frustrating 
+
+1   frustration 
+
+1   fugue 
+
+1   fulfill 
+
+1   fulfills 
+
+1   functor 
+
+1   functors 
+
+1   fundamentally 
+
+1   funding 
+
+1   fundraisers 
+
+1   fundraising 
+
+1   fungi 
+
+1   furthest 
+
+1   gained 
+
+1   gaining 
+
+1   gains 
+
+1   gameisover 
+
+1   gandalf 
+
+1   gather 
+
+1   gattaca 
+
+1   gene 
+
+1   generalizes 
+
+1   generalizing 
+
+1   generous 
+
+1   genesis 
+
+1   genetic 
+
+1   genius 
+
+1   geographically 
+
+1   geometrically 
+
+1   germane 
+
+1   getcoefficients 
+
+1   getday 
+
+1   getextension 
+
+1   getheight 
+
+1   getmonth 
+
+1   getmorsecodeletter 
+
+1   getposition 
+
+1   getrightdots 
+
+1   getroot 
+
+1   getshapeat 
+
+1   getstartposition 
+
+1   gettext 
+
+1   gettitiusbodedistance 
+
+1   gettokentype 
+
+1   getusermove 
+
+1   getwidth 
+
+1   getyear 
+
+1   gifts 
+
+1   gigabytes 
+
+1   glimpse 
+
+1   globally 
+
+1   gloin 
+
+1   gobame 
+
+1   gobamobe 
+
+1   goblet 
+
+1   gold 
+
+1   goldilocks 
+
+1   golf 
+
+1   goody 
+
+1   got 
+
+1   gottfried 
+
+1   gracefully 
+
+1   gradual 
+
+1   gradually 
+
+1   granted 
+
+1   graphimpl 
+
+1   graphio 
+
+1   graphpriv 
+
+1   grasp 
+
+1   greatly 
+
+1   grids 
+
+1   grievances 
+
+1   guessing 
+
+1   guidance 
+
+1   guideline 
+
+1   guidelines 
+
+1   guildenstern 
+
+1   ha 
+
+1   hackers 
+
+1   hailstones 
+
+1   halifirien 
+
+1   hammer 
+
+1   handled 
+
+1   hanging 
+
+1   hap 
+
+1   hardest 
+
+1   hasbinarysearchproperty 
+
+1   hasn 
+
+1   hasten 
+
+1   hastings 
+
+1   hath 
+
+1   hay 
+
+1   headaches 
+
+1   headed 
+
+1   headings 
+
+1   heaps 
+
+1   hear 
+
+1   hearts 
+
+1   helium 
+
+1   helix 
+
+1   helloname 
+
+1   helped 
+
+1   helping 
+
+1   heralding 
+
+1   heritage 
+
+1   herr 
+
+1   highlight 
+
+1   hired 
+
+1   hist 
+
+1   histograms 
+
+1   hitting 
+
+1   hobbit 
+
+1   holistically 
+
+1   hooks 
+
+1   hopeless 
+
+1   horse 
+
+1   host 
+
+1   hot 
+
+1   hour 
+
+1   hourlyrate 
+
+1   hoursworked 
+
+1   houston 
+
+1   hring 
+
+1   huge 
+
+1   hugely 
+
+1   hundredfold 
+
+1   hundreds 
+
+1   hurdle 
+
+1   hydrogen 
+
+1   hymenoptera 
+
+1   hyphenated 
+
+1   hyphens 
+
+1   hypothetical 
+
+1   ibn 
+
+1   icebergs 
+
+1   idealized 
+
+1   identification 
+
+1   idle 
+
+1   ies 
+
+1   ignorecomments 
+
+1   illinois 
+
+1   illustrative 
+
+1   imaginary 
+
+1   imagination 
+
+1   imagined 
+
+1   immune 
+
+1   implicit 
+
+1   implicitly 
+
+1   imprecision 
+
+1   improperly 
+
+1   improving 
+
+1   inability 
+
+1   inaccessible 
+
+1   inaccurate 
+
+1   inappropriate 
+
+1   incantations 
+
+1   income 
+
+1   incompatible 
+
+1   inconvenience 
+
+1   inconvenient 
+
+1   incorporating 
+
+1   incorrectly 
+
+1   indefinitely 
+
+1   indent 
+
+1   indented 
+
+1   indenting 
+
+1   independence 
+
+1   indexed 
+
+1   india 
+
+1   indian 
+
+1   indistinguishable 
+
+1   indivisible 
+
+1   inefficiency 
+
+1   inept 
+
+1   inevitable 
+
+1   inexpensive 
+
+1   infeasible 
+
+1   infer 
+
+1   inferior 
+
+1   influenced 
+
+1   influences 
+
+1   inform 
+
+1   informative 
+
+1   inherent 
+
+1   inheriting 
+
+1   initgraphics 
+
+1   initials 
+
+1   initiate 
+
+1   initiates 
+
+1   initpair 
+
+1   injury 
+
+1   inlets 
+
+1   innumerable 
+
+1   inputs 
+
+1   insect 
+
+1   inset 
+
+1   insisting 
+
+1   insofar 
+
+1   inspiration 
+
+1   instability 
+
+1   installed 
+
+1   instantiation 
+
+1   instincts 
+
+1   institute 
+
+1   instructor 
+
+1   insufficiently 
+
+1   intact 
+
+1   intellectual 
+
+1   intelligently 
+
+1   intentionally 
+
+1   interactions 
+
+1   interchanges 
+
+1   interim 
+
+1   interleave 
+
+1   intermix 
+
+1   interpreting 
+
+1   interview 
+
+1   ints 
+
+1   intuitively 
+
+1   inuse 
+
+1   invaded 
+
+1   invalidate 
+
+1   invent 
+
+1   invention 
+
+1   inventors 
+
+1   inverse 
+
+1   inversely 
+
+1   invertkey 
+
+1   investigate 
+
+1   investigating 
+
+1   investing 
+
+1   investment 
+
+1   invisible 
+
+1   isbipartite 
+
+1   isgameover 
+
+1   isprime 
+
+1   isprint 
+
+1   issentencepalindrome 
+
+1   issubsetof 
+
+1   istreams 
+
+1   iswordcharacter 
+
+1   isxdigit 
+
+1   italics 
+
+1   iter 
+
+1   iterated 
+
+1   iteratively 
+
+1   ja 
+
+1   jabr 
+
+1   jacks 
+
+1   jane 
+
+1   javascript 
+
+1   jd 
+
+1   jefferson 
+
+1   jerry 
+
+1   jfk 
+
+1   jiggled 
+
+1   join 
+
+1   jose 
+
+1   jul 
+
+1   justice 
+
+1   justifiably 
+
+1   justification 
+
+1   justifies 
+
+1   justify 
+
+1   jut 
+
+1   keepers 
+
+1   keith 
+
+1   kennedy 
+
+1   keyvaluepairs 
+
+1   kicks 
+
+1   kili 
+
+1   kindled 
+
+1   kingdom 
+
+1   kings 
+
+1   knossos 
+
+1   la 
+
+1   lacking 
+
+1   lands 
+
+1   landscape 
+
+1   larry 
+
+1   latinate 
+
+1   latter 
+
+1   launched 
+
+1   lauren 
+
+1   lay 
+
+1   layouts 
+
+1   lck 
+
+1   league 
+
+1   leagues 
+
+1   leftchildindex 
+
+1   leftover 
+
+1   legislature 
+
+1   lesson 
+
+1   lexicographical 
+
+1   lexicographically 
+
+1   lexicons 
+
+1   liber 
+
+1   limerick 
+
+1   linguistic 
+
+1   linguistics 
+
+1   lisp 
+
+1   listbuffer 
+
+1   listmap 
+
+1   lit 
+
+1   literally 
+
+1   lithium 
+
+1   litters 
+
+1   live 
+
+1   lived 
+
+1   locally 
+
+1   logician 
+
+1   logicians 
+
+1   lord 
+
+1   loses 
+
+1   loss 
+
+1   lovely 
+
+1   lovers 
+
+1   lowlevel 
+
+1   lying 
+
+1   macbook 
+
+1   macintosh 
+
+1   madam 
+
+1   magenta 
+
+1   magnesium 
+
+1   magnetic 
+
+1   magnified 
+
+1   maintenance 
+
+1   malformed 
+
+1   malicious 
+
+1   managers 
+
+1   managing 
+
+1   maneuver 
+
+1   manner 
+
+1   mapbfs 
+
+1   mapdfs 
+
+1   margin 
+
+1   marginal 
+
+1   marginally 
+
+1   marksquare 
+
+1   marvelous 
+
+1   mass 
+
+1   massively 
+
+1   materials 
+
+1   math 
+
+1   matrices 
+
+1   matthew 
+
+1   maxim 
+
+1   maximize 
+
+1   mb 
+
+1   meaningless 
+
+1   meanings 
+
+1   media 
+
+1   mediterranean 
+
+1   meeting 
+
+1   meetings 
+
+1   mehran 
+
+1   melencolia 
+
+1   memorable 
+
+1   memorizing 
+
+1   men 
+
+1   mentioning 
+
+1   merchants 
+
+1   mere 
+
+1   merged 
+
+1   messaging 
+
+1   messed 
+
+1   messy 
+
+1   metaphors 
+
+1   metaphysical 
+
+1   methodology 
+
+1   mg 
+
+1   microseconds 
+
+1   microsoft 
+
+1   mighty 
+
+1   milestone 
+
+1   millionaires 
+
+1   milliseconds 
+
+1   milo 
+
+1   mimic 
+
+1   minimizes 
+
+1   miserably 
+
+1   misleading 
+
+1   miss 
+
+1   mistakenly 
+
+1   mistakes 
+
+1   mitigate 
+
+1   mixed 
+
+1   mobility 
+
+1   modernizing 
+
+1   modified 
+
+1   modifies 
+
+1   modulus 
+
+1   mohammed 
+
+1   molecule 
+
+1   moments 
+
+1   monaco 
+
+1   monday 
+
+1   monitor 
+
+1   monitoring 
+
+1   monochrome 
+
+1   monograph 
+
+1   monolithic 
+
+1   monopoly 
+
+1   monster 
+
+1   monstrous 
+
+1   months 
+
+1   monthtostring 
+
+1   morgan 
+
+1   mortals 
+
+1   motif 
+
+1   mountains 
+
+1   movelist 
+
+1   movie 
+
+1   ms 
+
+1   muddled 
+
+1   multi 
+
+1   multiline 
+
+1   multiplications 
+
+1   multiplier 
+
+1   muqabala 
+
+1   music 
+
+1   mutator 
+
+1   mutators 
+
+1   mvc 
+
+1   mylib 
+
+1   na 
+
+1   namespaces 
+
+1   nannies 
+
+1   nardol 
+
+1   narrative 
+
+1   narrowly 
+
+1   nations 
+
+1   naughts 
+
+1   navigate 
+
+1   ncols 
+
+1   ne 
+
+1   nearby 
+
+1   neat 
+
+1   neatly 
+
+1   necessity 
+
+1   needing 
+
+1   needn 
+
+1   negate 
+
+1   negates 
+
+1   negation 
+
+1   negligible 
+
+1   neon 
+
+1   nervous 
+
+1   networking 
+
+1   newer 
+
+1   nextlabel 
+
+1   nicely 
+
+1   night 
+
+1   nightmares 
+
+1   nimgame 
+
+1   ninth 
+
+1   nitrogen 
+
+1   njudges 
+
+1   noboolalpha 
+
+1   nodemap 
+
+1   noise 
+
+1   non 
+
+1   nonalphanumeric 
+
+1   nonrecursive 
+
+1   nonsense 
+
+1   nonstandard 
+
+1   nori 
+
+1   normal 
+
+1   normalize 
+
+1   noshowpoint 
+
+1   noshowpos 
+
+1   notebook 
+
+1   noteworthy 
+
+1   noticeable 
+
+1   noticed 
+
+1   notoriously 
+
+1   nouppercase 
+
+1   novel 
+
+1   novices 
+
+1   nrows 
+
+1   ntaken 
+
+1   nuclear 
+
+1   numerous 
+
+1   ny 
+
+1   obeys 
+
+1   objections 
+
+1   objectives 
+
+1   obscured 
+
+1   observe 
+
+1   occupies 
+
+1   occupying 
+
+1   occurring 
+
+1   october 
+
+1   oddities 
+
+1   offerings 
+
+1   official 
+
+1   offspring 
+
+1   oh 
+
+1   oin 
+
+1   oldest 
+
+1   olsen 
+
+1   olson 
+
+1   olympic 
+
+1   omits 
+
+1   ooroo 
+
+1   operational 
+
+1   opposites 
+
+1   optical 
+
+1   optimally 
+
+1   optimized 
+
+1   optimum 
+
+1   optionally 
+
+1   orange 
+
+1   orbit 
+
+1   orbited 
+
+1   orderings 
+
+1   orderly 
+
+1   ordinals 
+
+1   ori 
+
+1   orthodoxy 
+
+1   oscar 
+
+1   oscillating 
+
+1   othello 
+
+1   ourselves 
+
+1   outperform 
+
+1   outperforms 
+
+1   outset 
+
+1   outweigh 
+
+1   ovals 
+
+1   overflows 
+
+1   overlap 
+
+1   overlooked 
+
+1   overly 
+
+1   overuse 
+
+1   overused 
+
+1   overwrite 
+
+1   overwriting 
+
+1   oxford 
+
+1   oxygen 
+
+1   paces 
+
+1   packing 
+
+1   pad 
+
+1   pae 
+
+1   paf 
+
+1   paid 
+
+1   painter 
+
+1   paintings 
+
+1   paired 
+
+1   pairing 
+
+1   palette 
+
+1   palo 
+
+1   pan 
+
+1   pap 
+
+1   paradigmatic 
+
+1   paradise 
+
+1   paradox 
+
+1   paradoxically 
+
+1   parallels 
+
+1   parameterize 
+
+1   parameterless 
+
+1   paraphrasing 
+
+1   paris 
+
+1   parlance 
+
+1   parses 
+
+1   participation 
+
+1   party 
+
+1   passages 
+
+1   passenger 
+
+1   pasting 
+
+1   pathexists 
+
+1   patterned 
+
+1   pawn 
+
+1   pays 
+
+1   pb 
+
+1   pbd 
+
+1   pbe 
+
+1   pbf 
+
+1   pc 
+
+1   pcd 
+
+1   pce 
+
+1   pcf 
+
+1   pencil 
+
+1   pending 
+
+1   peninsulas 
+
+1   percentage 
+
+1   performances 
+
+1   periodically 
+
+1   periods 
+
+1   permanence 
+
+1   permanently 
+
+1   permissive 
+
+1   permitted 
+
+1   permute 
+
+1   permuting 
+
+1   persian 
+
+1   persist 
+
+1   persuasion 
+
+1   pertaining 
+
+1   pervasive 
+
+1   phantom 
+
+1   phenomenon 
+
+1   philadelphia 
+
+1   philosophy 
+
+1   photograph 
+
+1   phrased 
+
+1   phrasing 
+
+1   physicists 
+
+1   pictorially 
+
+1   pictured 
+
+1   pigeonholes 
+
+1   pioneers 
+
+1   pirates 
+
+1   pitfall 
+
+1   placeholders 
+
+1   placing 
+
+1   plagued 
+
+1   plan 
+
+1   planes 
+
+1   plant 
+
+1   plants 
+
+1   plastic 
+
+1   pleased 
+
+1   plumbing 
+
+1   plural 
+
+1   plurals 
+
+1   pointertoonehalf 
+
+1   political 
+
+1   pollutants 
+
+1   populations 
+
+1   portable 
+
+1   posed 
+
+1   possessed 
+
+1   postal 
+
+1   postpones 
+
+1   pow 
+
+1   precept 
+
+1   precepts 
+
+1   precompiled 
+
+1   preconceptions 
+
+1   predate 
+
+1   predates 
+
+1   predicting 
+
+1   predictive 
+
+1   preferred 
+
+1   premature 
+
+1   prepare 
+
+1   prepared 
+
+1   prepares 
+
+1   preprocessor 
+
+1   presenting 
+
+1   preserves 
+
+1   president 
+
+1   press 
+
+1   presses 
+
+1   prevents 
+
+1   preview 
+
+1   priest 
+
+1   priests 
+
+1   primality 
+
+1   printable 
+
+1   printadjacencylists 
+
+1   printer 
+
+1   printvector 
+
+1   priorities 
+
+1   prize 
+
+1   probable 
+
+1   proc 
+
+1   proceeding 
+
+1   processors 
+
+1   professionals 
+
+1   proficient 
+
+1   prohibitive 
+
+1   prohibitively 
+
+1   prohibits 
+
+1   project 
+
+1   promotion 
+
+1   prone 
+
+1   pronunciation 
+
+1   propagate 
+
+1   propagates 
+
+1   propositions 
+
+1   prospective 
+
+1   protects 
+
+1   protocols 
+
+1   protruding 
+
+1   provably 
+
+1   providers 
+
+1   provision 
+
+1   psychological 
+
+1   psychologically 
+
+1   ptolemy 
+
+1   publicly 
+
+1   publish 
+
+1   publishers 
+
+1   pulitzer 
+
+1   punch 
+
+1   punched 
+
+1   pyramus 
+
+1   qa 
+
+1   qad 
+
+1   qae 
+
+1   qaf 
+
+1   qb 
+
+1   qbd 
+
+1   qbe 
+
+1   qbf 
+
+1   qc 
+
+1   qcd 
+
+1   qce 
+
+1   qcf 
+
+1   qualified 
+
+1   qualifies 
+
+1   qualify 
+
+1   quality 
+
+1   quantitative 
+
+1   quantities 
+
+1   quantum 
+
+1   query 
+
+1   quick 
+
+1   qwertyuiopasdfghjklzxcvbnm 
+
+1   rad 
+
+1   radians 
+
+1   radically 
+
+1   radio 
+
+1   rae 
+
+1   raf 
+
+1   rainfall 
+
+1   raised 
+
+1   raiseinttopower 
+
+1   ran 
+
+1   randomaverage 
+
+1   ranks 
+
+1   rare 
+
+1   rationals 
+
+1   rb 
+
+1   rbd 
+
+1   rbe 
+
+1   rbf 
+
+1   rbinhd 
+
+1   rc 
+
+1   rcd 
+
+1   rce 
+
+1   rcf 
+
+1   rd 
+
+1   readbeaconsfromfile 
+
+1   readentirefile 
+
+1   realarray 
+
+1   reallocate 
+
+1   reallocated 
+
+1   realm 
+
+1   reals 
+
+1   rearrangement 
+
+1   rearranges 
+
+1   reasoning 
+
+1   rebalance 
+
+1   rebalancing 
+
+1   rebuild 
+
+1   receive 
+
+1   received 
+
+1   receiving 
+
+1   recipe 
+
+1   reciprocal 
+
+1   reclaiming 
+
+1   recode 
+
+1   recoding 
+
+1   recognizable 
+
+1   recognizes 
+
+1   recommendation 
+
+1   reconstructed 
+
+1   reconstructing 
+
+1   recording 
+
+1   recourse 
+
+1   recruit 
+
+1   redefined 
+
+1   redesign 
+
+1   redesigning 
+
+1   redrawing 
+
+1   reductionistic 
+
+1   reenter 
+
+1   referenced 
+
+1   refilling 
+
+1   reflecting 
+
+1   reformulation 
+
+1   reframe 
+
+1   regardless 
+
+1   regenerate 
+
+1   regular 
+
+1   reign 
+
+1   reigning 
+
+1   reimplementation 
+
+1   reimplementing 
+
+1   reinterpretation 
+
+1   rejected 
+
+1   release 
+
+1   relegating 
+
+1   relevance 
+
+1   reliable 
+
+1   relieving 
+
+1   religiously 
+
+1   relinquishes 
+
+1   remained 
+
+1   remedy 
+
+1   reminder 
+
+1   reminiscent 
+
+1   remnants 
+
+1   removecharactersinplace 
+
+1   removecomments 
+
+1   removedoubledletters 
+
+1   removenode 
+
+1   rendering 
+
+1   repay 
+
+1   repeatability 
+
+1   repertoire 
+
+1   rephrasing 
+
+1   replacement 
+
+1   reply 
+
+1   repositories 
+
+1   representational 
+
+1   representationalism 
+
+1   reprinted 
+
+1   reproduction 
+
+1   reproductive 
+
+1   requesting 
+
+1   requiring 
+
+1   researcher 
+
+1   resembled 
+
+1   resets 
+
+1   reside 
+
+1   resides 
+
+1   resigned 
+
+1   resizes 
+
+1   resource 
+
+1   resources 
+
+1   restarted 
+
+1   resting 
+
+1   restraint 
+
+1   restructuring 
+
+1   restructurings 
+
+1   resumes 
+
+1   resurgence 
+
+1   retracing 
+
+1   retrieval 
+
+1   retrieves 
+
+1   retrieving 
+
+1   reuse 
+
+1   revealing 
+
+1   reverend 
+
+1   reversing 
+
+1   reverts 
+
+1   reviewing 
+
+1   reviews 
+
+1   revise 
+
+1   revisit 
+
+1   rewritten 
+
+1   ri 
+
+1   richer 
+
+1   rid 
+
+1   ridden 
+
+1   ride 
+
+1   rightchildindex 
+
+1   righteousness 
+
+1   rigid 
+
+1   rimmon 
+
+1   rings 
+
+1   rises 
+
+1   risks 
+
+1   robin 
+
+1   rolled 
+
+1   romans 
+
+1   romantodecimal 
+
+1   rook 
+
+1   rosencrantz 
+
+1   rotated 
+
+1   roulette 
+
+1   round 
+
+1   roundtonearestint 
+
+1   royal 
+
+1   rpncalculator 
+
+1   rudimentary 
+
+1   ruler 
+
+1   rusk 
+
+1   rusty 
+
+1   sacrifice 
+
+1   sad 
+
+1   sae 
+
+1   saf 
+
+1   safety 
+
+1   sahami 
+
+1   salaried 
+
+1   salary 
+
+1   sales 
+
+1   samplemaze 
+
+1   sandwich 
+
+1   sans 
+
+1   satisfies 
+
+1   satisfying 
+
+1   saturday 
+
+1   saturn 
+
+1   savings 
+
+1   sb 
+
+1   sbd 
+
+1   sbe 
+
+1   sbf 
+
+1   scaled 
+
+1   scan 
+
+1   scancplusplustoken 
+
+1   scandinavian 
+
+1   scares 
+
+1   scheduled 
+
+1   scholar 
+
+1   scholars 
+
+1   schools 
+
+1   schwarz 
+
+1   sciences 
+
+1   scored 
+
+1   scratched 
+
+1   scripting 
+
+1   scuba 
+
+1   se 
+
+1   seamlessly 
+
+1   secondhalf 
+
+1   secret 
+
+1   seek 
+
+1   seliminates 
+
+1   semantics 
+
+1   semicircles 
+
+1   semicolons 
+
+1   sensitivity 
+
+1   sentences 
+
+1   separator 
+
+1   separators 
+
+1   sergey 
+
+1   serif 
+
+1   seriously 
+
+1   settled 
+
+1   sety 
+
+1   sevens 
+
+1   sh 
+
+1   shade 
+
+1   shadowed 
+
+1   shadowfax 
+
+1   shall 
+
+1   shares 
+
+1   sharp 
+
+1   sharpen 
+
+1   shellfish 
+
+1   shoes 
+
+1   shoots 
+
+1   shortcomings 
+
+1   shorten 
+
+1   shortened 
+
+1   shorthands 
+
+1   showcases 
+
+1   showcontents 
+
+1   showingraphicswindow 
+
+1   showpoint 
+
+1   showpos 
+
+1   shrink 
+
+1   siblings 
+
+1   sided 
+
+1   sideways 
+
+1   sigma 
+
+1   signals 
+
+1   signifies 
+
+1   signify 
+
+1   signifying 
+
+1   silences 
+
+1   silent 
+
+1   simplenim 
+
+1   simplistic 
+
+1   sindegrees 
+
+1   sines 
+
+1   situated 
+
+1   sixteenths 
+
+1   sixth 
+
+1   sized 
+
+1   skeleton 
+
+1   sketches 
+
+1   sketching 
+
+1   skipws 
+
+1   sky 
+
+1   skyrockets 
+
+1   slavishly 
+
+1   slaying 
+
+1   slice 
+
+1   slips 
+
+1   slope 
+
+1   sloppy 
+
+1   slowing 
+
+1   smart 
+
+1   snowflakes 
+
+1   sodium 
+
+1   sometime 
+
+1   sought 
+
+1   sounded 
+
+1   sounding 
+
+1   southward 
+
+1   spacebar 
+
+1   spans 
+
+1   sparingly 
+
+1   specialize 
+
+1   specializing 
+
+1   specificity 
+
+1   specifics 
+
+1   spell 
+
+1   spelled 
+
+1   spherical 
+
+1   spiders 
+
+1   spin 
+
+1   spite 
+
+1   sport 
+
+1   spot 
+
+1   spread 
+
+1   spreads 
+
+1   springs 
+
+1   spur 
+
+1   squared 
+
+1   squarely 
+
+1   squaring 
+
+1   squeeze 
+
+1   sri 
+
+1   stability 
+
+1   stabilize 
+
+1   staggering 
+
+1   stamping 
+
+1   standardized 
+
+1   standpoint 
+
+1   statemap 
+
+1   statically 
+
+1   station 
+
+1   stays 
+
+1   stddev 
+
+1   stems 
+
+1   stick 
+
+1   sticks 
+
+1   stk 
+
+1   stocklength 
+
+1   stone 
+
+1   stopwatch 
+
+1   strands 
+
+1   strategic 
+
+1   streamlined 
+
+1   strengths 
+
+1   stressed 
+
+1   stretch 
+
+1   strict 
+
+1   strike 
+
+1   stringbasedgraph 
+
+1   stripes 
+
+1   stripped 
+
+1   strive 
+
+1   strong 
+
+1   structurally 
+
+1   stucture 
+
+1   stumbling 
+
+1   stylistic 
+
+1   sub 
+
+1   subdirectories 
+
+1   subdividecanvas 
+
+1   subdivides 
+
+1   subdividing 
+
+1   subdivision 
+
+1   subfield 
+
+1   subgraph 
+
+1   subinstances 
+
+1   sublist 
+
+1   submaze 
+
+1   submazes 
+
+1   subrange 
+
+1   subscripted 
+
+1   subsections 
+
+1   substantive 
+
+1   substituting 
+
+1   subtowers 
+
+1   subtype 
+
+1   subwindows 
+
+1   succeed 
+
+1   succeeded 
+
+1   successor 
+
+1   suddenly 
+
+1   suffers 
+
+1   sufficiency 
+
+1   suggesting 
+
+1   suggestion 
+
+1   suggestions 
+
+1   suite 
+
+1   sumintegerfile 
+
+1   super 
+
+1   supercomputer 
+
+1   superior 
+
+1   supermarkets 
+
+1   supersede 
+
+1   supersedes 
+
+1   supervisor 
+
+1   supplanted 
+
+1   supporters 
+
+1   supposition 
+
+1   surefire 
+
+1   surely 
+
+1   surfer 
+
+1   surprise 
+
+1   surrounds 
+
+1   surveys 
+
+1   survives 
+
+1   suspect 
+
+1   suspended 
+
+1   suspends 
+
+1   swapintegers 
+
+1   switches 
+
+1   sword 
+
+1   symbolic 
+
+1   symbolically 
+
+1   synchronization 
+
+1   syndrome 
+
+1   synonyms 
+
+1   systematically 
+
+1   tack 
+
+1   tackle 
+
+1   tactical 
+
+1   tactics 
+
+1   tagged 
+
+1   tagline 
+
+1   tailored 
+
+1   talent 
+
+1   talk 
+
+1   taoist 
+
+1   tape 
+
+1   tax 
+
+1   teach 
+
+1   teacher 
+
+1   team 
+
+1   teams 
+
+1   technical 
+
+1   telegraph 
+
+1   telling 
+
+1   temporaries 
+
+1   temptation 
+
+1   tens 
+
+1   tenth 
+
+1   terrible 
+
+1   terribly 
+
+1   territories 
+
+1   territory 
+
+1   tested 
+
+1   testshapeclass 
+
+1   thanks 
+
+1   theoretically 
+
+1   thereafter 
+
+1   theta 
+
+1   thick 
+
+1   thirty 
+
+1   thisbe 
+
+1   thorin 
+
+1   thunderclap 
+
+1   thursday 
+
+1   ti 
+
+1   tilde 
+
+1   tile 
+
+1   till 
+
+1   titanic 
+
+1   title 
+
+1   titlecomesbefore 
+
+1   todegrees 
+
+1   tollbooth 
+
+1   tone 
+
+1   tones 
+
+1   toolbox 
+
+1   topics 
+
+1   topmost 
+
+1   toradians 
+
+1   tossed 
+
+1   totals 
+
+1   touch 
+
+1   towards 
+
+1   toys 
+
+1   tracks 
+
+1   tragedy 
+
+1   trailing 
+
+1   tramp 
+
+1   transaction 
+
+1   transcends 
+
+1   transferred 
+
+1   transfers 
+
+1   transitions 
+
+1   translateword 
+
+1   transmissions 
+
+1   transport 
+
+1   traps 
+
+1   trash 
+
+1   travelers 
+
+1   tremendously 
+
+1   trend 
+
+1   tribute 
+
+1   trick 
+
+1   trigger 
+
+1   trigonometry 
+
+1   trilogy 
+
+1   tripartite 
+
+1   trivial 
+
+1   truncates 
+
+1   truncating 
+
+1   tudor 
+
+1   tuesday 
+
+1   tutorial 
+
+1   twentieth 
+
+1   twenty 
+
+1   typography 
+
+1   tyrannical 
+
+1   ubiquitous 
+
+1   ugly 
+
+1   ultimately 
+
+1   unassigned 
+
+1   unbroken 
+
+1   unceasingly 
+
+1   unclear 
+
+1   uncluttered 
+
+1   uncomfortable 
+
+1   unconstrained 
+
+1   uncover 
+
+1   undeniably 
+
+1   underground 
+
+1   underlies 
+
+1   underlined 
+
+1   underpinnings 
+
+1   understandable 
+
+1   undertake 
+
+1   undertaken 
+
+1   undertook 
+
+1   underwater 
+
+1   undetected 
+
+1   undoubtedly 
+
+1   unenviable 
+
+1   unfinished 
+
+1   unfolded 
+
+1   unhealthy 
+
+1   unidentified 
+
+1   unify 
+
+1   uniquely 
+
+1   unix 
+
+1   unmanageably 
+
+1   unmark 
+
+1   unmarking 
+
+1   unnoticed 
+
+1   unparsed 
+
+1   unpredictability 
+
+1   unprepared 
+
+1   unqualified 
+
+1   unreadable 
+
+1   unsatisfying 
+
+1   unsettling 
+
+1   unsolvable 
+
+1   unspecified 
+
+1   untested 
+
+1   unusable 
+
+1   unvisited 
+
+1   unwarranted 
+
+1   unwinding 
+
+1   unwisely 
+
+1   upheaval 
+
+1   upheavals 
+
+1   upside 
+
+1   uranus 
+
+1   usefulness 
+
+1   vacant 
+
+1   vaguely 
+
+1   validation 
+
+1   validity 
+
+1   vanish 
+
+1   vantage 
+
+1   variability 
+
+1   variations 
+
+1   vastly 
+
+1   veer 
+
+1   velocity 
+
+1   venerable 
+
+1   venus 
+
+1   verified 
+
+1   verifytoken 
+
+1   vernal 
+
+1   vietnam 
+
+1   vigilant 
+
+1   vii 
+
+1   violated 
+
+1   visualizing 
+
+1   volume 
+
+1   volunteered 
+
+1   vt 
+
+1   vulnerabilities 
+
+1   wa 
+
+1   wage 
+
+1   walks 
+
+1   walls 
+
+1   war 
+
+1   warn 
+
+1   washington 
+
+1   wasps 
+
+1   wastes 
+
+1   wasting 
+
+1   watch 
+
+1   watched 
+
+1   watching 
+
+1   waterfront 
+
+1   waters 
+
+1   wave 
+
+1   wb 
+
+1   wd 
+
+1   weaker 
+
+1   weakest 
+
+1   weaknesses 
+
+1   website 
+
+1   wednesday 
+
+1   weekdays 
+
+1   weighs 
+
+1   wesley 
+
+1   wf 
+
+1   wheel 
+
+1   wheels 
+
+1   wherever 
+
+1   whistle 
+
+1   whiteboard 
+
+1   widest 
+
+1   wife 
+
+1   wig 
+
+1   wilhelm 
+
+1   winds 
+
+1   wings 
+
+1   winner 
+
+1   wish 
+
+1   wizzy 
+
+1   wonder 
+
+1   wondered 
+
+1   wonderfully 
+
+1   wooden 
+
+1   worker 
+
+1   worrying 
+
+1   worthy 
+
+1   wound 
+
+1   writings 
+
+1   wrought 
+
+1   wxyz 
+
+1   xfff 
+
+1   xs 
+
+1   xylo 
+
+1   xyz 
+
+1   yang 
+
+1   yea 
+
+1   yellow 
+
+1   yin 
+
+1   younger 
+
+1   yy 
+
+1   zeno 
+
+1   zeroes 
+
+1   zodiac 
+
+1   zzz 
+
+2   abbreviate 
+
+2   abcd 
+
+2   abraham 
+
+2   absent 
+
+2   accordingly 
+
+2   accounts 
+
+2   acquire 
+
+2   actively 
+
+2   ad 
+
+2   addoperator 
+
+2   addthreenumbers 
+
+2   adela 
+
+2   adele 
+
+2   adenosine 
+
+2   adhere 
+
+2   adjacentpoint 
+
+2   adjust 
+
+2   adt 
+
+2   aeiou 
+
+2   aesop 
+
+2   alaska 
+
+2   alcott 
+
+2   alice 
+
+2   alpha 
+
+2   alternatively 
+
+2   amon 
+
+2   anagrams 
+
+2   analyzed 
+
+2   andrei 
+
+2   animal 
+
+2   annoyed 
+
+2   antonio 
+
+2   api 
+
+2   appearance 
+
+2   apple 
+
+2   appreciate 
+
+2   approximately 
+
+2   arguably 
+
+2   argue 
+
+2   arose 
+
+2   arr 
+
+2   arrangement 
+
+2   arrowheads 
+
+2   artistic 
+
+2   assemble 
+
+2   assembled 
+
+2   assertion 
+
+2   assess 
+
+2   assured 
+
+2   astronomer 
+
+2   astronomical 
+
+2   atan 
+
+2   athens 
+
+2   attempts 
+
+2   attributed 
+
+2   attributes 
+
+2   august 
+
+2   avoiding 
+
+2   aw 
+
+2   awry 
+
+2   ax 
+
+2   bach 
+
+2   bachmann 
+
+2   background 
+
+2   backing 
+
+2   banish 
+
+2   bar 
+
+2   bce 
+
+2   becoming 
+
+2   bede 
+
+2   believed 
+
+2   benoit 
+
+2   bernard 
+
+2   bernstein 
+
+2   bill 
+
+2   billions 
+
+2   binarysearch 
+
+2   binding 
+
+2   binds 
+
+2   blaise 
+
+2   bombur 
+
+2   books 
+
+2   boole 
+
+2   borges 
+
+2   born 
+
+2   borrowed 
+
+2   botanist 
+
+2   bothering 
+
+2   bounce 
+
+2   bracketing 
+
+2   brahma 
+
+2   brando 
+
+2   braque 
+
+2   brass 
+
+2   brevity 
+
+2   brian 
+
+2   brief 
+
+2   bring 
+
+2   broader 
+
+2   bsts 
+
+2   buggy 
+
+2   business 
+
+2   bx 
+
+2   cabot 
+
+2   calculus 
+
+2   candidates 
+
+2   cannonball 
+
+2   cardinal 
+
+2   careless 
+
+2   caret 
+
+2   carlo 
+
+2   carmichael 
+
+2   carries 
+
+2   cascading 
+
+2   cash 
+
+2   cather 
+
+2   celsius 
+
+2   centuries 
+
+2   chaining 
+
+2   challenging 
+
+2   chances 
+
+2   changevariable 
+
+2   changin 
+
+2   characterized 
+
+2   charstackunittest 
+
+2   chart 
+
+2   cheapest 
+
+2   checked 
+
+2   checkoutlinesimulation 
+
+2   churchill 
+
+2   circular 
+
+2   circumvents 
+
+2   cite 
+
+2   classical 
+
+2   classifications 
+
+2   clauses 
+
+2   clearbit 
+
+2   clearer 
+
+2   clearing 
+
+2   clears 
+
+2   cleverness 
+
+2   clockwise 
+
+2   closing 
+
+2   closure 
+
+2   clubs 
+
+2   clue 
+
+2   coefficients 
+
+2   coexist 
+
+2   coincides 
+
+2   cold 
+
+2   collects 
+
+2   comma 
+
+2   commentary 
+
+2   companies 
+
+2   compatibility 
+
+2   compatible 
+
+2   completion 
+
+2   complication 
+
+2   complications 
+
+2   compositions 
+
+2   compromises 
+
+2   concatenates 
+
+2   conception 
+
+2   concreteness 
+
+2   configurations 
+
+2   confined 
+
+2   consequently 
+
+2   considering 
+
+2   consistency 
+
+2   consonants 
+
+2   constrained 
+
+2   constraint 
+
+2   contiguous 
+
+2   continued 
+
+2   contraction 
+
+2   contributions 
+
+2   controlled 
+
+2   conveyed 
+
+2   convincing 
+
+2   convoluted 
+
+2   coordinators 
+
+2   corridor 
+
+2   countfib 
+
+2   countries 
+
+2   covering 
+
+2   createindexarray 
+
+2   cribbage 
+
+2   critically 
+
+2   crosses 
+
+2   crucial 
+
+2   cryptography 
+
+2   cstddef 
+
+2   cubism 
+
+2   curve 
+
+2   cx 
+
+2   cy 
+
+2   cyclic 
+
+2   cytosine 
+
+2   daedalus 
+
+2   dahl 
+
+2   danger 
+
+2   dangers 
+
+2   dart 
+
+2   dartboard 
+
+2   dashes 
+
+2   dates 
+
+2   david 
+
+2   dd 
+
+2   decades 
+
+2   decaying 
+
+2   decidedly 
+
+2   decides 
+
+2   deck 
+
+2   decrease 
+
+2   decreases 
+
+2   decreasing 
+
+2   defaults 
+
+2   deferring 
+
+2   deficiency 
+
+2   del 
+
+2   delegate 
+
+2   delegation 
+
+2   demonstrating 
+
+2   denote 
+
+2   dereferenced 
+
+2   descendants 
+
+2   descends 
+
+2   descriptive 
+
+2   deserves 
+
+2   desirable 
+
+2   diagonal 
+
+2   diamond 
+
+2   dice 
+
+2   didn 
+
+2   dies 
+
+2   differentiates 
+
+2   difficulty 
+
+2   digitalroot 
+
+2   dimension 
+
+2   directories 
+
+2   directory 
+
+2   discovering 
+
+2   discovery 
+
+2   displayfamilytree 
+
+2   distinguished 
+
+2   distinguishes 
+
+2   distributing 
+
+2   distributor 
+
+2   documented 
+
+2   dominates 
+
+2   donor 
+
+2   door 
+
+2   douard 
+
+2   doublearray 
+
+2   doublefn 
+
+2   douglas 
+
+2   drawbacks 
+
+2   drawhfractal 
+
+2   drawline 
+
+2   driven 
+
+2   duplicates 
+
+2   duration 
+
+2   earth 
+
+2   edward 
+
+2   eighteenth 
+
+2   eighth 
+
+2   eilenach 
+
+2   eldest 
+
+2   elegant 
+
+2   elert 
+
+2   ell 
+
+2   enclose 
+
+2   encodecaesarcipher 
+
+2   encodings 
+
+2   encourage 
+
+2   endorsement 
+
+2   engels 
+
+2   engine 
+
+2   engines 
+
+2   england 
+
+2   enhanced 
+
+2   enhancements 
+
+2   enjoy 
+
+2   enumerate 
+
+2   equivalents 
+
+2   era 
+
+2   erase 
+
+2   escaping 
+
+2   escher 
+
+2   esoteric 
+
+2   estimates 
+
+2   etymology 
+
+2   evaluatestaticposition 
+
+2   evaluationcontext 
+
+2   evgenii 
+
+2   evocative 
+
+2   evolution 
+
+2   evolved 
+
+2   evolves 
+
+2   exam 
+
+2   exceed 
+
+2   exceptions 
+
+2   excluded 
+
+2   excludes 
+
+2   existed 
+
+2   expansively 
+
+2   expense 
+
+2   experiments 
+
+2   exploit 
+
+2   expressiontype 
+
+2   expressiveness 
+
+2   extract 
+
+2   extraneous 
+
+2   fahrenheit 
+
+2   familiarity 
+
+2   feet 
+
+2   ffa 
+
+2   fff 
+
+2   filenames 
+
+2   fillgrid 
+
+2   film 
+
+2   findareacode 
+
+2   finddnamatch 
+
+2   findduplicate 
+
+2   findinsortedvector 
+
+2   finger 
+
+2   fixcounts 
+
+2   flights 
+
+2   flipcoin 
+
+2   flowchart 
+
+2   fnptr 
+
+2   focuses 
+
+2   folding 
+
+2   forcing 
+
+2   former 
+
+2   frank 
+
+2   fredkin 
+
+2   freelist 
+
+2   freely 
+
+2   frequencies 
+
+2   future 
+
+2   garden 
+
+2   garry 
+
+2   generatebinarycode 
+
+2   generategraycode 
+
+2   generatemovelist 
+
+2   generations 
+
+2   generators 
+
+2   genus 
+
+2   geographical 
+
+2   geometry 
+
+2   georges 
+
+2   georgii 
+
+2   getcomputermove 
+
+2   getcurrentplayer 
+
+2   getcursor 
+
+2   getleftdots 
+
+2   getrank 
+
+2   getstatename 
+
+2   gevents 
+
+2   glass 
+
+2   god 
+
+2   goldberg 
+
+2   gone 
+
+2   gotten 
+
+2   grammatical 
+
+2   graphicsexample 
+
+2   green 
+
+2   grew 
+
+2   grouped 
+
+2   guanine 
+
+2   hamilton 
+
+2   handling 
+
+2   happening 
+
+2   happily 
+
+2   haven 
+
+2   helge 
+
+2   hellman 
+
+2   henri 
+
+2   highest 
+
+2   highways 
+
+2   historian 
+
+2   historians 
+
+2   hit 
+
+2   home 
+
+2   hook 
+
+2   hyphen 
+
+2   identifierexp 
+
+2   imbalances 
+
+2   immediate 
+
+2   impractical 
+
+2   impression 
+
+2   improved 
+
+2   improvements 
+
+2   improves 
+
+2   inbounds 
+
+2   inclusions 
+
+2   incoming 
+
+2   incorporates 
+
+2   incremented 
+
+2   incurs 
+
+2   indexing 
+
+2   indiana 
+
+2   individuals 
+
+2   inefficiencies 
+
+2   inevitably 
+
+2   influence 
+
+2   informally 
+
+2   infrequently 
+
+2   initgame 
+
+2   initializers 
+
+2   inplace 
+
+2   insecta 
+
+2   insects 
+
+2   insertavl 
+
+2   insignificant 
+
+2   instruction 
+
+2   instructional 
+
+2   instructive 
+
+2   instructs 
+
+2   integrated 
+
+2   integration 
+
+2   intends 
+
+2   interacting 
+
+2   interaction 
+
+2   interchangeably 
+
+2   interconnections 
+
+2   interfere 
+
+2   international 
+
+2   interpreters 
+
+2   intuition 
+
+2   invalid 
+
+2   invert 
+
+2   inverted 
+
+2   invested 
+
+2   invocations 
+
+2   invoked 
+
+2   invoking 
+
+2   isbalanced 
+
+2   isdigitstring 
+
+2   island 
+
+2   islower 
+
+2   ismagicsquare 
+
+2   isolation 
+
+2   isperfect 
+
+2   isshorter 
+
+2   isspace 
+
+2   issubstringpalindrome 
+
+2   isupper 
+
+2   italic 
+
+2   johan 
+
+2   joined 
+
+2   joining 
+
+2   jorge 
+
+2   joseph 
+
+2   jr 
+
+2   julie 
+
+2   jumps 
+
+2   june 
+
+2   jupiter 
+
+2   juster 
+
+2   kasparov 
+
+2   kemeny 
+
+2   kept 
+
+2   keyvaluepair 
+
+2   khow 
+
+2   kipling 
+
+2   knows 
+
+2   kristen 
+
+2   kth 
+
+2   kurtz 
+
+2   labelgen 
+
+2   laptop 
+
+2   laws 
+
+2   layer 
+
+2   layering 
+
+2   laying 
+
+2   layout 
+
+2   leaders 
+
+2   lear 
+
+2   legacy 
+
+2   legs 
+
+2   leonardo 
+
+2   lhs 
+
+2   lighting 
+
+2   lillian 
+
+2   limiting 
+
+2   listcompletions 
+
+2   listmapentry 
+
+2   listmnemonics 
+
+2   listvariables 
+
+2   literature 
+
+2   localized 
+
+2   located 
+
+2   lodge 
+
+2   lots 
+
+2   louisa 
+
+2   lucas 
+
+2   luis 
+
+2   luther 
+
+2   macbeth 
+
+2   magdalen 
+
+2   magnitude 
+
+2   mail 
+
+2   man 
+
+2   mandelbrot 
+
+2   mapped 
+
+2   marlon 
+
+2   mars 
+
+2   martin 
+
+2   mary 
+
+2   mastered 
+
+2   matilda 
+
+2   measurements 
+
+2   measuring 
+
+2   mercury 
+
+2   mid 
+
+2   minds 
+
+2   mindset 
+
+2   minelocations 
+
+2   minesweeper 
+
+2   mmm 
+
+2   mnemonic 
+
+2   mnemonics 
+
+2   modeled 
+
+2   modeling 
+
+2   modes 
+
+2   modification 
+
+2   moivre 
+
+2   monetary 
+
+2   monte 
+
+2   moon 
+
+2   motivation 
+
+2   mountaintop 
+
+2   movement 
+
+2   mr 
+
+2   msg 
+
+2   multiplied 
+
+2   myclass 
+
+2   mythology 
+
+2   nbits 
+
+2   ncolumns 
+
+2   ndigits 
+
+2   nearly 
+
+2   needle 
+
+2   neighborhood 
+
+2   nesting 
+
+2   net 
+
+2   networks 
+
+2   newborn 
+
+2   newexp 
+
+2   newname 
+
+2   nickel 
+
+2   nimmove 
+
+2   nonalphabetic 
+
+2   nonterminals 
+
+2   nonterminating 
+
+2   noon 
+
+2   nor 
+
+2   norton 
+
+2   noting 
+
+2   notions 
+
+2   np 
+
+2   numcols 
+
+2   numerals 
+
+2   numerical 
+
+2   numrows 
+
+2   nygaard 
+
+2   obey 
+
+2   observations 
+
+2   obviously 
+
+2   occupied 
+
+2   occupy 
+
+2   oddly 
+
+2   oldname 
+
+2   ole 
+
+2   organisms 
+
+2   organize 
+
+2   originating 
+
+2   orlando 
+
+2   ought 
+
+2   outputiterator 
+
+2   overlook 
+
+2   overwrites 
+
+2   ozone 
+
+2   pa 
+
+2   pablo 
+
+2   pack 
+
+2   packages 
+
+2   painted 
+
+2   painting 
+
+2   parc 
+
+2   parentindex 
+
+2   parsed 
+
+2   parseexp 
+
+2   parville 
+
+2   paul 
+
+2   paying 
+
+2   pen 
+
+2   penny 
+
+2   perception 
+
+2   periodic 
+
+2   permanent 
+
+2   permits 
+
+2   persists 
+
+2   personal 
+
+2   philosophical 
+
+2   phylum 
+
+2   physics 
+
+2   picasso 
+
+2   piet 
+
+2   placement 
+
+2   plenty 
+
+2   plotting 
+
+2   plug 
+
+2   plugging 
+
+2   pocket 
+
+2   pointed 
+
+2   poisson 
+
+2   policy 
+
+2   pool 
+
+2   poorly 
+
+2   popularity 
+
+2   preferable 
+
+2   preliminary 
+
+2   prerequisite 
+
+2   prerequisites 
+
+2   pressed 
+
+2   priced 
+
+2   printreport 
+
+2   profession 
+
+2   professor 
+
+2   profoundly 
+
+2   prohibit 
+
+2   prohibited 
+
+2   projects 
+
+2   promising 
+
+2   prompts 
+
+2   propagated 
+
+2   proportion 
+
+2   proportionality 
+
+2   proved 
+
+2   proves 
+
+2   province 
+
+2   proving 
+
+2   publishing 
+
+2   purchases 
+
+2   purely 
+
+2   puts 
+
+2   pyramid 
+
+2   qualitatively 
+
+2   quantify 
+
+2   quantity 
+
+2   queuepriv 
+
+2   quit 
+
+2   ra 
+
+2   rainbow 
+
+2   ranging 
+
+2   rankings 
+
+2   rated 
+
+2   rationally 
+
+2   realistic 
+
+2   realization 
+
+2   realtostring 
+
+2   recoloring 
+
+2   reduced 
+
+2   regarded 
+
+2   regional 
+
+2   rehash 
+
+2   relations 
+
+2   relegated 
+
+2   relied 
+
+2   relies 
+
+2   remainders 
+
+2   remarkable 
+
+2   remarkably 
+
+2   remind 
+
+2   removal 
+
+2   removecharacters 
+
+2   reordered 
+
+2   repeatable 
+
+2   repeating 
+
+2   replicate 
+
+2   reproduced 
+
+2   reproducing 
+
+2   reset 
+
+2   resize 
+
+2   restored 
+
+2   restores 
+
+2   restricts 
+
+2   rests 
+
+2   retain 
+
+2   retaining 
+
+2   retractmove 
+
+2   revealed 
+
+2   reversefile 
+
+2   reversequeue 
+
+2   revolution 
+
+2   revolutions 
+
+2   rightward 
+
+2   rizm 
+
+2   robson 
+
+2   roles 
+
+2   rolls 
+
+2   rotations 
+
+2   rough 
+
+2   rounds 
+
+2   rowling 
+
+2   rp 
+
+2   rudyard 
+
+2   runsimulation 
+
+2   runtime 
+
+2   sa 
+
+2   sacrifices 
+
+2   saving 
+
+2   saying 
+
+2   scales 
+
+2   scancplusplustokens 
+
+2   scenes 
+
+2   scram 
+
+2   sec 
+
+2   secure 
+
+2   sees 
+
+2   self 
+
+2   sells 
+
+2   sender 
+
+2   sensitive 
+
+2   september 
+
+2   sequential 
+
+2   setfill 
+
+2   setx 
+
+2   shakespearean 
+
+2   shaw 
+
+2   shelley 
+
+2   shifts 
+
+2   shortestpathlength 
+
+2   showed 
+
+2   shuffle 
+
+2   sierpi 
+
+2   signatures 
+
+2   signs 
+
+2   silly 
+
+2   similarity 
+
+2   simone 
+
+2   simulated 
+
+2   site 
+
+2   sixteen 
+
+2   sixty 
+
+2   skeptical 
+
+2   sketch 
+
+2   ski 
+
+2   skill 
+
+2   skipped 
+
+2   slash 
+
+2   slower 
+
+2   social 
+
+2   society 
+
+2   solvable 
+
+2   solvequadratic 
+
+2   song 
+
+2   sources 
+
+2   spacing 
+
+2   spades 
+
+2   speaking 
+
+2   specifications 
+
+2   speeding 
+
+2   spirit 
+
+2   spring 
+
+2   stacked 
+
+2   stan 
+
+2   standards 
+
+2   standing 
+
+2   stanza 
+
+2   stated 
+
+2   staying 
+
+2   stephen 
+
+2   stepping 
+
+2   stokely 
+
+2   stoppard 
+
+2   stringstream 
+
+2   stringtoreal 
+
+2   stuck 
+
+2   studied 
+
+2   studies 
+
+2   subgraphs 
+
+2   substitutions 
+
+2   subtleties 
+
+2   subtower 
+
+2   subtracted 
+
+2   suetonius 
+
+2   summarized 
+
+2   summation 
+
+2   summing 
+
+2   sunday 
+
+2   supermarket 
+
+2   supplies 
+
+2   supporting 
+
+2   surcharge 
+
+2   suspend 
+
+2   swapping 
+
+2   swedish 
+
+2   switchturn 
+
+2   symmetry 
+
+2   synonym 
+
+2   synonymous 
+
+2   syntactically 
+
+2   synthesis 
+
+2   tag 
+
+2   tags 
+
+2   tap 
+
+2   targets 
+
+2   teachers 
+
+2   technology 
+
+2   temple 
+
+2   tempting 
+
+2   textbooks 
+
+2   texting 
+
+2   thank 
+
+2   thread 
+
+2   thymine 
+
+2   tied 
+
+2   tillie 
+
+2   told 
+
+2   tom 
+
+2   topic 
+
+2   touppercaseinplace 
+
+2   tradeoffs 
+
+2   tradition 
+
+2   traffic 
+
+2   trans 
+
+2   transform 
+
+2   translator 
+
+2   transportation 
+
+2   trapped 
+
+2   trials 
+
+2   trifle 
+
+2   triggering 
+
+2   troilus 
+
+2   truly 
+
+2   trunk 
+
+2   trust 
+
+2   turned 
+
+2   twain 
+
+2   twos 
+
+2   typeset 
+
+2   typographical 
+
+2   ultimate 
+
+2   unallocated 
+
+2   unavailable 
+
+2   undefined 
+
+2   underneath 
+
+2   underscores 
+
+2   unexplored 
+
+2   unifying 
+
+2   uninitialized 
+
+2   unity 
+
+2   universal 
+
+2   unparse 
+
+2   unparsing 
+
+2   unprocessed 
+
+2   unrestricted 
+
+2   unsure 
+
+2   unusual 
+
+2   unworkable 
+
+2   us 
+
+2   validate 
+
+2   validating 
+
+2   variants 
+
+2   vice 
+
+2   viewed 
+
+2   viewpoint 
+
+2   virginia 
+
+2   virtue 
+
+2   visibility 
+
+2   visual 
+
+2   visually 
+
+2   wac 
+
+2   waits 
+
+2   walt 
+
+2   wants 
+
+2   watson 
+
+2   wchar 
+
+2   wedge 
+
+2   week 
+
+2   weighed 
+
+2   weil 
+
+2   whisper 
+
+2   widespread 
+
+2   wildly 
+
+2   willa 
+
+2   willing 
+
+2   win 
+
+2   winston 
+
+2   winter 
+
+2   women 
+
+2   wonderland 
+
+2   woolf 
+
+2   wordsfound 
+
+2   workings 
+
+2   wrinkle 
+
+2   writers 
+
+2   yyyy 
+
+2   zelenski 
+
+3   abandon 
+
+3   abcde 
+
+3   accommodate 
+
+3   accomplishes 
+
+3   achieved 
+
+3   acquired 
+
+3   actions 
+
+3   activity 
+
+3   adapted 
+
+3   adapting 
+
+3   addcommas 
+
+3   adelson 
+
+3   adequate 
+
+3   advancing 
+
+3   affected 
+
+3   affecting 
+
+3   airportcodes 
+
+3   albert 
+
+3   allocating 
+
+3   alphabetic 
+
+3   alternate 
+
+3   american 
+
+3   analogue 
+
+3   anticipate 
+
+3   ants 
+
+3   anywhere 
+
+3   appearing 
+
+3   approximates 
+
+3   approximating 
+
+3   arbitrarily 
+
+3   arcane 
+
+3   ariadne 
+
+3   arrivals 
+
+3   arriving 
+
+3   associates 
+
+3   assumed 
+
+3   attractive 
+
+3   audience 
+
+3   automatic 
+
+3   ay 
+
+3   backwards 
+
+3   bear 
+
+3   bears 
+
+3   became 
+
+3   began 
+
+3   beneath 
+
+3   bidirectional 
+
+3   bipartite 
+
+3   bjarne 
+
+3   blocks 
+
+3   bnf 
+
+3   bob 
+
+3   boggle 
+
+3   bookkeeping 
+
+3   bother 
+
+3   breaks 
+
+3   brings 
+
+3   british 
+
+3   cable 
+
+3   cafeteria 
+
+3   calculators 
+
+3   calendar 
+
+3   canvas 
+
+3   capital 
+
+3   cashiers 
+
+3   census 
+
+3   chemical 
+
+3   ciphers 
+
+3   click 
+
+3   clocks 
+
+3   coded 
+
+3   coincide 
+
+3   colleagues 
+
+3   collected 
+
+3   college 
+
+3   collide 
+
+3   commissioned 
+
+3   communicate 
+
+3   community 
+
+3   compact 
+
+3   compares 
+
+3   comparisons 
+
+3   compass 
+
+3   compelling 
+
+3   compete 
+
+3   compilation 
+
+3   completeness 
+
+3   complicates 
+
+3   compose 
+
+3   compoundexp 
+
+3   comprehensive 
+
+3   computationally 
+
+3   concerns 
+
+3   confident 
+
+3   consisted 
+
+3   consonant 
+
+3   constantexp 
+
+3   convey 
+
+3   convince 
+
+3   convinced 
+
+3   corners 
+
+3   countsubsetsumways 
+
+3   coupled 
+
+3   createbeaconsofgondor 
+
+3   criterion 
+
+3   crux 
+
+3   cryptic 
+
+3   cubic 
+
+3   cumbersome 
+
+3   cutting 
+
+3   cvec 
+
+3   dangerous 
+
+3   daysinmonth 
+
+3   deal 
+
+3   decided 
+
+3   delegating 
+
+3   delivers 
+
+3   deposit 
+
+3   derivative 
+
+3   derive 
+
+3   designate 
+
+3   designation 
+
+3   devise 
+
+3   diagonally 
+
+3   diagonals 
+
+3   diagrammed 
+
+3   dickens 
+
+3   directive 
+
+3   disallowing 
+
+3   discarding 
+
+3   discovers 
+
+3   discussions 
+
+3   disney 
+
+3   distinguish 
+
+3   distinguishing 
+
+3   distribute 
+
+3   disturbing 
+
+3   divisors 
+
+3   document 
+
+3   dollars 
+
+3   dropped 
+
+3   duplicating 
+
+3   dylan 
+
+3   earliest 
+
+3   edit 
+
+3   edsger 
+
+3   einstein 
+
+3   elementary 
+
+3   eliminates 
+
+3   emanating 
+
+3   embed 
+
+3   embodied 
+
+3   enables 
+
+3   endswith 
+
+3   enqueued 
+
+3   ep 
+
+3   equalsignorecase 
+
+3   equilateral 
+
+3   escaped 
+
+3   especially 
+
+3   everywhere 
+
+3   examine 
+
+3   exchanges 
+
+3   exchanging 
+
+3   exclusion 
+
+3   exclusive 
+
+3   exhausted 
+
+3   exhibit 
+
+3   expensive 
+
+3   exploring 
+
+3   expressing 
+
+3   ext 
+
+3   extensively 
+
+3   extern 
+
+3   extracting 
+
+3   eyes 
+
+3   fancy 
+
+3   feeling 
+
+3   findinvector 
+
+3   findkey 
+
+3   findsolutionpath 
+
+3   finishes 
+
+3   flow 
+
+3   fly 
+
+3   focusing 
+
+3   forget 
+
+3   formatincolumns 
+
+3   formats 
+
+3   forming 
+
+3   forwarditerator 
+
+3   fourth 
+
+3   fragment 
+
+3   friendship 
+
+3   functioning 
+
+3   gb 
+
+3   generality 
+
+3   generalization 
+
+3   generalized 
+
+3   geometric 
+
+3   gettype 
+
+3   golden 
+
+3   golfscores 
+
+3   grectangle 
+
+3   greeting 
+
+3   groups 
+
+3   growing 
+
+3   growth 
+
+3   guide 
+
+3   halfway 
+
+3   handle 
+
+3   hands 
+
+3   happened 
+
+3   heapsort 
+
+3   heart 
+
+3   hits 
+
+3   hofstadter 
+
+3   holism 
+
+3   homogeneous 
+
+3   hood 
+
+3   hopcount 
+
+3   hope 
+
+3   hourly 
+
+3   hours 
+
+3   humans 
+
+3   hyperlinks 
+
+3   iata 
+
+3   identifies 
+
+3   ifndef 
+
+3   image 
+
+3   images 
+
+3   imperative 
+
+3   imply 
+
+3   impose 
+
+3   imposed 
+
+3   imposes 
+
+3   increased 
+
+3   indentation 
+
+3   indicator 
+
+3   industry 
+
+3   inelegant 
+
+3   inequality 
+
+3   inherited 
+
+3   initrandomseed 
+
+3   innermost 
+
+3   inputiterator 
+
+3   insanity 
+
+3   inserts 
+
+3   insist 
+
+3   inspired 
+
+3   instant 
+
+3   integrating 
+
+3   integrity 
+
+3   intent 
+
+3   interactive 
+
+3   interchange 
+
+3   interpretations 
+
+3   intricacies 
+
+3   inventor 
+
+3   irrelevant 
+
+3   ispunct 
+
+3   isvowel 
+
+3   italicized 
+
+3   iterates 
+
+3   ith 
+
+3   jack 
+
+3   jackson 
+
+3   jc 
+
+3   julius 
+
+3   jump 
+
+3   justified 
+
+3   kb 
+
+3   kernighan 
+
+3   keywords 
+
+3   kuhn 
+
+3   labelgenerator 
+
+3   laboratories 
+
+3   labyrinth 
+
+3   land 
+
+3   landis 
+
+3   lao 
+
+3   leak 
+
+3   legend 
+
+3   legitimate 
+
+3   leibniz 
+
+3   lengths 
+
+3   letterfrequency 
+
+3   linking 
+
+3   listkletterwords 
+
+3   listpermutations 
+
+3   literals 
+
+3   lives 
+
+3   locate 
+
+3   logarithm 
+
+3   logically 
+
+3   lookout 
+
+3   looping 
+
+3   lose 
+
+3   losing 
+
+3   maintained 
+
+3   managed 
+
+3   manipulates 
+
+3   mapcallback 
+
+3   marker 
+
+3   mastering 
+
+3   matched 
+
+3   mazes 
+
+3   measures 
+
+3   mechanical 
+
+3   medium 
+
+3   memories 
+
+3   memorize 
+
+3   mental 
+
+3   merely 
+
+3   merging 
+
+3   metaphor 
+
+3   meters 
+
+3   miles 
+
+3   minas 
+
+3   mine 
+
+3   minecounts 
+
+3   minimal 
+
+3   minimizing 
+
+3   minos 
+
+3   mixing 
+
+3   mouse 
+
+3   mysterious 
+
+3   mystery 
+
+3   naming 
+
+3   nchars 
+
+3   nearest 
+
+3   necessarily 
+
+3   needles 
+
+3   nondeterministic 
+
+3   nonexistent 
+
+3   normalization 
+
+3   notably 
+
+3   november 
+
+3   npos 
+
+3   nspaces 
+
+3   numeral 
+
+3   obtained 
+
+3   offering 
+
+3   okay 
+
+3   oldcell 
+
+3   online 
+
+3   opens 
+
+3   optimize 
+
+3   ounce 
+
+3   outlines 
+
+3   overridden 
+
+3   overrides 
+
+3   packed 
+
+3   parallel 
+
+3   parents 
+
+3   partial 
+
+3   person 
+
+3   pertain 
+
+3   phoenix 
+
+3   physical 
+
+3   picking 
+
+3   pigeonhole 
+
+3   planet 
+
+3   planets 
+
+3   plots 
+
+3   plotted 
+
+3   poem 
+
+3   polar 
+
+3   poor 
+
+3   pops 
+
+3   portability 
+
+3   pos 
+
+3   postordertraversal 
+
+3   precisionexample 
+
+3   preordertraversal 
+
+3   presence 
+
+3   pretty 
+
+3   prev 
+
+3   prevailing 
+
+3   principal 
+
+3   printed 
+
+3   probing 
+
+3   problematic 
+
+3   producing 
+
+3   profound 
+
+3   progress 
+
+3   properly 
+
+3   protect 
+
+3   published 
+
+3   px 
+
+3   py 
+
+3   q 
+
+3   quoted 
+
+3   quotes 
+
+3   radius 
+
+3   raises 
+
+3   ram 
+
+3   randomness 
+
+3   ranges 
+
+3   rarely 
+
+3   ratings 
+
+3   reachable 
+
+3   reappear 
+
+3   recognized 
+
+3   recorded 
+
+3   recover 
+
+3   redefines 
+
+3   reduction 
+
+3   refine 
+
+3   register 
+
+3   reinforce 
+
+3   remembering 
+
+3   removezeroelements 
+
+3   repetition 
+
+3   reporting 
+
+3   representative 
+
+3   rer 
+
+3   resemble 
+
+3   reshape 
+
+3   resolving 
+
+3   restructure 
+
+3   rev 
+
+3   rewriting 
+
+3   robert 
+
+3   rohan 
+
+3   rotate 
+
+3   rounding 
+
+3   ruled 
+
+3   sacrificing 
+
+3   safer 
+
+3   salesman 
+
+3   samuel 
+
+3   satisfied 
+
+3   savetoken 
+
+3   says 
+
+3   sc 
+
+3   scanned 
+
+3   scannumbers 
+
+3   scans 
+
+3   scanstrings 
+
+3   scene 
+
+3   scientist 
+
+3   searches 
+
+3   seeks 
+
+3   sends 
+
+3   sent 
+
+3   separately 
+
+3   sequentially 
+
+3   session 
+
+3   setfromstring 
+
+3   setrandomseed 
+
+3   shaped 
+
+3   shapelist 
+
+3   showfilecontents 
+
+3   sieve 
+
+3   simplifications 
+
+3   simulating 
+
+3   skepticism 
+
+3   skills 
+
+3   skips 
+
+3   skull 
+
+3   solitaire 
+
+3   sorts 
+
+3   sound 
+
+3   specialization 
+
+3   specifically 
+
+3   spelling 
+
+3   spending 
+
+3   spends 
+
+3   sprung 
+
+3   ss 
+
+3   stages 
+
+3   statistics 
+
+3   stay 
+
+3   streamline 
+
+3   strength 
+
+3   stroustrup 
+
+3   student 
+
+3   subdivide 
+
+3   subsequently 
+
+3   substantial 
+
+3   substituted 
+
+3   subtask 
+
+3   succeeds 
+
+3   successfully 
+
+3   succession 
+
+3   suited 
+
+3   supposed 
+
+3   suspicious 
+
+3   symmetrical 
+
+3   tails 
+
+3   taller 
+
+3   temporarily 
+
+3   terminated 
+
+3   terminating 
+
+3   termination 
+
+3   thousand 
+
+3   thrown 
+
+3   tirith 
+
+3   tolkien 
+
+3   tolowercase 
+
+3   tony 
+
+3   traces 
+
+3   transient 
+
+3   treatise 
+
+3   treeset 
+
+3   triangles 
+
+3   triangular 
+
+3   trickier 
+
+3   tried 
+
+3   trim 
+
+3   truncated 
+
+3   ucla 
+
+3   unaffected 
+
+3   unfamiliar 
+
+3   unfortunate 
+
+3   unmarks 
+
+3   unmarksquare 
+
+3   upon 
+
+3   varying 
+
+3   vast 
+
+3   velskii 
+
+3   versa 
+
+3   versus 
+
+3   vertex 
+
+3   violating 
+
+3   volunteer 
+
+3   went 
+
+3   whom 
+
+3   wider 
+
+3   workable 
+
+3   writegraph 
+
+3   wysiwyg 
+
+3   xc 
+
+3   xerox 
+
+3   yc 
+
+3   yields 
+
+4   abbreviated 
+
+4   abbreviations 
+
+4   acceptable 
+
+4   ace 
+
+4   addintegerlist 
+
+4   adheres 
+
+4   advances 
+
+4   advice 
+
+4   aligned 
+
+4   ambiguous 
+
+4   amortized 
+
+4   amounts 
+
+4   ampersand 
+
+4   analogous 
+
+4   analyzing 
+
+4   annotations 
+
+4   applicable 
+
+4   approximations 
+
+4   april 
+
+4   arctype 
+
+4   arrived 
+
+4   art 
+
+4   aside 
+
+4   asking 
+
+4   assignable 
+
+4   associations 
+
+4   atoms 
+
+4   attach 
+
+4   backtrack 
+
+4   bases 
+
+4   bell 
+
+4   belonging 
+
+4   besides 
+
+4   blocked 
+
+4   bodies 
+
+4   boxes 
+
+4   braces 
+
+4   button 
+
+4   cannonballs 
+
+4   capability 
+
+4   carried 
+
+4   cartesian 
+
+4   chains 
+
+4   charles 
+
+4   chose 
+
+4   circuit 
+
+4   clever 
+
+4   closed 
+
+4   coherent 
+
+4   collectively 
+
+4   colored 
+
+4   combinatorics 
+
+4   commercial 
+
+4   communication 
+
+4   concatenating 
+
+4   confusion 
+
+4   conjunction 
+
+4   connecting 
+
+4   consecutively 
+
+4   consequence 
+
+4   considers 
+
+4   constraints 
+
+4   constructing 
+
+4   construction 
+
+4   constructs 
+
+4   consuming 
+
+4   content 
+
+4   contrary 
+
+4   convenience 
+
+4   conventionally 
+
+4   conversions 
+
+4   conveys 
+
+4   courses 
+
+4   crash 
+
+4   crossed 
+
+4   crossover 
+
+4   cstring 
+
+4   curly 
+
+4   daniel 
+
+4   decomposed 
+
+4   decrementing 
+
+4   deletes 
+
+4   deletion 
+
+4   delta 
+
+4   demonstrates 
+
+4   dennis 
+
+4   denoted 
+
+4   dependent 
+
+4   dequeued 
+
+4   derivation 
+
+4   describing 
+
+4   designated 
+
+4   differs 
+
+4   dime 
+
+4   directiontostring 
+
+4   disappears 
+
+4   distances 
+
+4   doubling 
+
+4   dramatic 
+
+4   duplicate 
+
+4   easter 
+
+4   electronic 
+
+4   eliminating 
+
+4   encapsulate 
+
+4   encoded 
+
+4   encryption 
+
+4   endpoint 
+
+4   engineering 
+
+4   enormous 
+
+4   enormously 
+
+4   ensuring 
+
+4   entity 
+
+4   environments 
+
+4   established 
+
+4   estimate 
+
+4   exceeds 
+
+4   excellent 
+
+4   expects 
+
+4   experts 
+
+4   exploiting 
+
+4   exploration 
+
+4   faced 
+
+4   ff 
+
+4   ffff 
+
+4   figuring 
+
+4   filling 
+
+4   findgoodmove 
+
+4   findshortestpath 
+
+4   fire 
+
+4   float 
+
+4   formation 
+
+4   fortran 
+
+4   fractions 
+
+4   french 
+
+4   frequency 
+
+4   functionclass 
+
+4   functiontable 
+
+4   getreal 
+
+4   gety 
+
+4   giga 
+
+4   google 
+
+4   gtypes 
+
+4   guarantee 
+
+4   guess 
+
+4   gymnastics 
+
+4   hailstone 
+
+4   handles 
+
+4   hardly 
+
+4   harry 
+
+4   hasmoretokens 
+
+4   headway 
+
+4   heights 
+
+4   her 
+
+4   highlighted 
+
+4   historical 
+
+4   holding 
+
+4   holes 
+
+4   hop 
+
+4   horizontal 
+
+4   ibm 
+
+4   identifiers 
+
+4   identity 
+
+4   ignorewhitespace 
+
+4   ignoring 
+
+4   implementers 
+
+4   individually 
+
+4   init 
+
+4   insights 
+
+4   instantly 
+
+4   integrate 
+
+4   intend 
+
+4   interested 
+
+4   invented 
+
+4   iomanip 
+
+4   isalnum 
+
+4   isalpha 
+
+4   isbadposition 
+
+4   ismeasurable 
+
+4   issues 
+
+4   itertype 
+
+4   johann 
+
+4   july 
+
+4   kilo 
+
+4   kinds 
+
+4   kingdoms 
+
+4   kruskal 
+
+4   ks 
+
+4   lack 
+
+4   law 
+
+4   led 
+
+4   lessignoringcase 
+
+4   letting 
+
+4   limitation 
+
+4   listings 
+
+4   magical 
+
+4   manipulating 
+
+4   march 
+
+4   mathematically 
+
+4   median 
+
+4   mega 
+
+4   million 
+
+4   mines 
+
+4   minimize 
+
+4   minotaur 
+
+4   minute 
+
+4   mirrors 
+
+4   mission 
+
+4   mode 
+
+4   modest 
+
+4   modifying 
+
+4   module 
+
+4   modules 
+
+4   motion 
+
+4   mousetrap 
+
+4   moved 
+
+4   multicharacter 
+
+4   multiples 
+
+4   multiplies 
+
+4   mygrid 
+
+4   namelist 
+
+4   naur 
+
+4   ncoins 
+
+4   near 
+
+4   neither 
+
+4   newline 
+
+4   news 
+
+4   nonempty 
+
+4   nonterminal 
+
+4   nonzero 
+
+4   normandy 
+
+4   noskipws 
+
+4   ob 
+
+4   obscure 
+
+4   observed 
+
+4   occasionally 
+
+4   octal 
+
+4   offered 
+
+4   omitted 
+
+4   opening 
+
+4   optimization 
+
+4   orders 
+
+4   originally 
+
+4   ounces 
+
+4   overhead 
+
+4   palindromes 
+
+4   paragraph 
+
+4   parsers 
+
+4   passage 
+
+4   peek 
+
+4   percent 
+
+4   persistent 
+
+4   perspectives 
+
+4   peter 
+
+4   pitfalls 
+
+4   platforms 
+
+4   ply 
+
+4   polymorphic 
+
+4   polymorphism 
+
+4   pong 
+
+4   popped 
+
+4   positioned 
+
+4   postscript 
+
+4   potter 
+
+4   prefixes 
+
+4   prevent 
+
+4   primes 
+
+4   processor 
+
+4   proofs 
+
+4   pushes 
+
+4   queens 
+
+4   quotation 
+
+4   radioactive 
+
+4   raising 
+
+4   randomaccessiterator 
+
+4   randtest 
+
+4   readers 
+
+4   readfamilytree 
+
+4   realize 
+
+4   reassemble 
+
+4   receives 
+
+4   recently 
+
+4   recognizing 
+
+4   redefining 
+
+4   reductionism 
+
+4   redundant 
+
+4   reflect 
+
+4   repeatchar 
+
+4   replaceall 
+
+4   repository 
+
+4   request 
+
+4   requested 
+
+4   resembles 
+
+4   reserves 
+
+4   responds 
+
+4   restoring 
+
+4   restrict 
+
+4   restricted 
+
+4   revision 
+
+4   rotating 
+
+4   rounded 
+
+4   roundtosignificantdigits 
+
+4   salariedemployee 
+
+4   satisfy 
+
+4   saved 
+
+4   scalar 
+
+4   scaling 
+
+4   scanning 
+
+4   scheme 
+
+4   sculpture 
+
+4   seeing 
+
+4   separation 
+
+4   setbit 
+
+4   setfilled 
+
+4   setinput 
+
+4   setters 
+
+4   setw 
+
+4   shadowing 
+
+4   signed 
+
+4   simpletexteditor 
+
+4   simultaneously 
+
+4   sine 
+
+4   sitting 
+
+4   skip 
+
+4   slicing 
+
+4   slot 
+
+4   sneezy 
+
+4   solid 
+
+4   spend 
+
+4   spires 
+
+4   sstream 
+
+4   star 
+
+4   stepwise 
+
+4   study 
+
+4   studying 
+
+4   styles 
+
+4   subclassing 
+
+4   subexpression 
+
+4   substitute 
+
+4   substitution 
+
+4   subtracting 
+
+4   suitable 
+
+4   supplying 
+
+4   supported 
+
+4   sx 
+
+4   sy 
+
+4   symmetrically 
+
+4   tabular 
+
+4   teaching 
+
+4   tedious 
+
+4   telephone 
+
+4   terminates 
+
+4   thoroughly 
+
+4   thumb 
+
+4   thurber 
+
+4   tiles 
+
+4   touppercase 
+
+4   tour 
+
+4   transforms 
+
+4   transmission 
+
+4   trap 
+
+4   travel 
+
+4   traveling 
+
+4   traverse 
+
+4   truncation 
+
+4   twoplayergame 
+
+4   typed 
+
+4   typing 
+
+4   unconnected 
+
+4   understood 
+
+4   unexpected 
+
+4   unget 
+
+4   unified 
+
+4   unimportant 
+
+4   updating 
+
+4   useless 
+
+4   utility 
+
+4   valued 
+
+4   visiting 
+
+4   visits 
+
+4   wait 
+
+4   wallinger 
+
+4   warning 
+
+4   weather 
+
+4   wildcard 
+
+4   windchill 
+
+4   windows 
+
+4   wordfrequency 
+
+4   worked 
+
+4   wouldn 
+
+4   ws 
+
+4   yes 
+
+4   young 
+
+5   above 
+
+5   absolute 
+
+5   accomplished 
+
+5   active 
+
+5   addressing 
+
+5   adjacent 
+
+5   adopts 
+
+5   age 
+
+5   aloud 
+
+5   alphanumeric 
+
+5   analyze 
+
+5   angles 
+
+5   ansi 
+
+5   answers 
+
+5   appeared 
+
+5   arg 
+
+5   arpanet 
+
+5   arrangements 
+
+5   arrives 
+
+5   assembles 
+
+5   assignments 
+
+5   associativity 
+
+5   assumes 
+
+5   assumption 
+
+5   asterisk 
+
+5   atom 
+
+5   beaconsofgondor 
+
+5   benefit 
+
+5   bigint 
+
+5   bode 
+
+5   bounded 
+
+5   branching 
+
+5   carroll 
+
+5   caution 
+
+5   characteristicvector 
+
+5   circled 
+
+5   closures 
+
+5   combines 
+
+5   comparable 
+
+5   compiled 
+
+5   complexities 
+
+5   component 
+
+5   conclusion 
+
+5   confidence 
+
+5   consideration 
+
+5   constructed 
+
+5   container 
+
+5   couple 
+
+5   cover 
+
+5   createmask 
+
+5   criteria 
+
+5   cyclical 
+
+5   de 
+
+5   dead 
+
+5   debug 
+
+5   decrement 
+
+5   definite 
+
+5   deletions 
+
+5   deliver 
+
+5   dense 
+
+5   depthfirstsearch 
+
+5   dereferencing 
+
+5   descendant 
+
+5   descending 
+
+5   designs 
+
+5   deviation 
+
+5   differently 
+
+5   digital 
+
+5   dimensions 
+
+5   displaying 
+
+5   dog 
+
+5   dollar 
+
+5   dramatically 
+
+5   drawn 
+
+5   dst 
+
+5   electionday 
+
+5   elsewhere 
+
+5   emphasizes 
+
+5   employ 
+
+5   enclosing 
+
+5   encode 
+
+5   eratosthenes 
+
+5   escape 
+
+5   evolutionary 
+
+5   exact 
+
+5   expected 
+
+5   explanation 
+
+5   factorials 
+
+5   factorization 
+
+5   fairly 
+
+5   february 
+
+5   fertile 
+
+5   fillableshape 
+
+5   flexible 
+
+5   floor 
+
+5   focused 
+
+5   force 
+
+5   forced 
+
+5   formulas 
+
+5   forty 
+
+5   freed 
+
+5   friedrich 
+
+5   fully 
+
+5   generation 
+
+5   german 
+
+5   gondor 
+
+5   gpoint 
+
+5   grammars 
+
+5   greedy 
+
+5   group 
+
+5   habit 
+
+5   halves 
+
+5   hoare 
+
+5   horizontally 
+
+5   identifying 
+
+5   ii 
+
+5   illustrating 
+
+5   imbalance 
+
+5   improvement 
+
+5   inaugurationday 
+
+5   inches 
+
+5   incorporate 
+
+5   increasingly 
+
+5   incrementing 
+
+5   indication 
+
+5   insertat 
+
+5   internet 
+
+5   interpret 
+
+5   intervals 
+
+5   intractable 
+
+5   iterations 
+
+5   james 
+
+5   keytype 
+
+5   labels 
+
+5   lasius 
+
+5   late 
+
+5   layered 
+
+5   leftmost 
+
+5   lewis 
+
+5   li 
+
+5   lie 
+
+5   linearsearch 
+
+5   linnaeus 
+
+5   listwordsoflengthk 
+
+5   loaded 
+
+5   lost 
+
+5   lucky 
+
+5   lvalues 
+
+5   majority 
+
+5   makemove 
+
+5   manipulated 
+
+5   manipulation 
+
+5   markov 
+
+5   maxy 
+
+5   me 
+
+5   mechanisms 
+
+5   middlemarch 
+
+5   midpoint 
+
+5   min 
+
+5   minor 
+
+5   miny 
+
+5   modular 
+
+5   moonlanding 
+
+5   mousetraps 
+
+5   movecursortostart 
+
+5   multiplying 
+
+5   national 
+
+5   nbuckets 
+
+5   neighbor 
+
+5   niger 
+
+5   numbering 
+
+5   occurred 
+
+5   odds 
+
+5   op 
+
+5   opened 
+
+5   operating 
+
+5   opposed 
+
+5   ordinal 
+
+5   ostringstream 
+
+5   outer 
+
+5   overloads 
+
+5   overriding 
+
+5   parenthesis 
+
+5   parenthesized 
+
+5   passes 
+
+5   phones 
+
+5   ping 
+
+5   pipes 
+
+5   places 
+
+5   plane 
+
+5   plates 
+
+5   population 
+
+5   pqueue 
+
+5   predecessor 
+
+5   presents 
+
+5   probabilities 
+
+5   procedural 
+
+5   procedures 
+
+5   pronounced 
+
+5   proposed 
+
+5   ptr 
+
+5   puzzles 
+
+5   qualifier 
+
+5   quotient 
+
+5   ranking 
+
+5   readable 
+
+5   readgraph 
+
+5   readvector 
+
+5   reclaimed 
+
+5   redefinition 
+
+5   reducing 
+
+5   refinement 
+
+5   reflected 
+
+5   regions 
+
+5   released 
+
+5   requirement 
+
+5   rescue 
+
+5   reserve 
+
+5   reveals 
+
+5   reversed 
+
+5   reverses 
+
+5   ritchie 
+
+5   rolling 
+
+5   roughly 
+
+5   sampleset 
+
+5   sampleweights 
+
+5   scratch 
+
+5   security 
+
+5   sending 
+
+5   sentence 
+
+5   setter 
+
+5   significance 
+
+5   significantly 
+
+5   simula 
+
+5   sounds 
+
+5   sparse 
+
+5   split 
+
+5   srand 
+
+5   stage 
+
+5   status 
+
+5   subscript 
+
+5   subtraction 
+
+5   success 
+
+5   surrounding 
+
+5   swaps 
+
+5   technically 
+
+5   tempted 
+
+5   ten 
+
+5   terminal 
+
+5   testbit 
+
+5   theme 
+
+5   thomas 
+
+5   thought 
+
+5   throwing 
+
+5   tightly 
+
+5   titius 
+
+5   transforming 
+
+5   treat 
+
+5   triggers 
+
+5   trigonometric 
+
+5   turning 
+
+5   twoletterwords 
+
+5   tzu 
+
+5   unable 
+
+5   university 
+
+5   unordered 
+
+5   unused 
+
+5   update 
+
+5   upward 
+
+5   usage 
+
+5   variant 
+
+5   varies 
+
+5   verify 
+
+5   vertically 
+
+5   violates 
+
+5   visitusingdfs 
+
+5   visualize 
+
+5   vowels 
+
+5   walking 
+
+5   waste 
+
+5   weakly 
+
+5   whichever 
+
+5   whoseturn 
+
+5   wise 
+
+5   worry 
+
+5   wrap 
+
+6   abstractions 
+
+6   addressed 
+
+6   advanced 
+
+6   air 
+
+6   airlinegraph 
+
+6   airport 
+
+6   al 
+
+6   alone 
+
+6   anyone 
+
+6   apart 
+
+6   atomic 
+
+6   attempt 
+
+6   backus 
+
+6   beacons 
+
+6   blank 
+
+6   boundaries 
+
+6   bugs 
+
+6   calculated 
+
+6   capitalize 
+
+6   captures 
+
+6   carefully 
+
+6   carl 
+
+6   cast 
+
+6   challenges 
+
+6   chessboard 
+
+6   chill 
+
+6   clerk 
+
+6   collect 
+
+6   colon 
+
+6   combining 
+
+6   commonly 
+
+6   company 
+
+6   compile 
+
+6   completed 
+
+6   concise 
+
+6   connection 
+
+6   connects 
+
+6   consecutive 
+
+6   containskey 
+
+6   corner 
+
+6   correctness 
+
+6   covered 
+
+6   craps 
+
+6   cross 
+
+6   cs 
+
+6   ctype 
+
+6   decay 
+
+6   decisions 
+
+6   degrees 
+
+6   deletecharacter 
+
+6   deleted 
+
+6   derived 
+
+6   designer 
+
+6   detect 
+
+6   deterministic 
+
+6   device 
+
+6   digitsum 
+
+6   disadvantages 
+
+6   discarded 
+
+6   discipline 
+
+6   displayed 
+
+6   divisible 
+
+6   dmax 
+
+6   domains 
+
+6   doubles 
+
+6   eliminated 
+
+6   eliot 
+
+6   embedded 
+
+6   enable 
+
+6   encapsulates 
+
+6   enum 
+
+6   equality 
+
+6   evaluateposition 
+
+6   exchange 
+
+6   executable 
+
+6   expanding 
+
+6   expands 
+
+6   expansion 
+
+6   explored 
+
+6   explores 
+
+6   exporting 
+
+6   expressionfunction 
+
+6   extends 
+
+6   face 
+
+6   fifo 
+
+6   flag 
+
+6   flipping 
+
+6   formally 
+
+6   foundation 
+
+6   gap 
+
+6   gave 
+
+6   getters 
+
+6   glance 
+
+6   gmath 
+
+6   graphtypes 
+
+6   great 
+
+6   guaranteed 
+
+6   hashes 
+
+6   hiding 
+
+6   hole 
+
+6   hosts 
+
+6   hypothesis 
+
+6   ignores 
+
+6   impact 
+
+6   inch 
+
+6   inclusive 
+
+6   incorporated 
+
+6   insertions 
+
+6   integertostring 
+
+6   intricate 
+
+6   invariably 
+
+6   ios 
+
+6   jabberwocky 
+
+6   largely 
+
+6   lexical 
+
+6   lifetime 
+
+6   likelihood 
+
+6   literal 
+
+6   living 
+
+6   logarithms 
+
+6   lot 
+
+6   macro 
+
+6   manageable 
+
+6   material 
+
+6   matters 
+
+6   maxx 
+
+6   meets 
+
+6   mention 
+
+6   metric 
+
+6   minx 
+
+6   mistake 
+
+6   money 
+
+6   movecursorbackward 
+
+6   multiply 
+
+6   notes 
+
+6   occurrence 
+
+6   oldarray 
+
+6   omit 
+
+6   outcome 
+
+6   overflow 
+
+6   paint 
+
+6   partition 
+
+6   pay 
+
+6   phrase 
+
+6   pictures 
+
+6   popping 
+
+6   portion 
+
+6   primarily 
+
+6   printtwoletterwords 
+
+6   priorityqueue 
+
+6   proof 
+
+6   putting 
+
+6   rabbit 
+
+6   readability 
+
+6   ready 
+
+6   rearrange 
+
+6   regard 
+
+6   rehashing 
+
+6   removeat 
+
+6   reports 
+
+6   resolve 
+
+6   responses 
+
+6   restrictions 
+
+6   rightfrom 
+
+6   roman 
+
+6   route 
+
+6   routing 
+
+6   rpn 
+
+6   saves 
+
+6   school 
+
+6   selects 
+
+6   send 
+
+6   separating 
+
+6   served 
+
+6   setinitiallocation 
+
+6   settozero 
+
+6   shaded 
+
+6   sibling 
+
+6   signature 
+
+6   smalltalk 
+
+6   somehow 
+
+6   someone 
+
+6   species 
+
+6   st 
+
+6   startswith 
+
+6   statistical 
+
+6   story 
+
+6   strlen 
+
+6   strongly 
+
+6   subdivided 
+
+6   subproblem 
+
+6   subsidiary 
+
+6   substantially 
+
+6   subtlety 
+
+6   superclasses 
+
+6   surface 
+
+6   surprisingly 
+
+6   symmetric 
+
+6   tac 
+
+6   terminate 
+
+6   textbook 
+
+6   tic 
+
+6   toe 
+
+6   tolower 
+
+6   took 
+
+6   tractable 
+
+6   transfer 
+
+6   transformation 
+
+6   translated 
+
+6   translating 
+
+6   treated 
+
+6   truth 
+
+6   unnecessary 
+
+6   users 
+
+6   violate 
+
+6   vp 
+
+6   weight 
+
+6   widely 
+
+7   absence 
+
+7   accept 
+
+7   accurate 
+
+7   acronym 
+
+7   action 
+
+7   affects 
+
+7   algebra 
+
+7   ambiguity 
+
+7   ancestor 
+
+7   ant 
+
+7   architecture 
+
+7   aren 
+
+7   arrange 
+
+7   arrival 
+
+7   assert 
+
+7   associate 
+
+7   assumptions 
+
+7   balancing 
+
+7   balls 
+
+7   bashful 
+
+7   believe 
+
+7   bindings 
+
+7   boilerplate 
+
+7   branch 
+
+7   broken 
+
+7   bug 
+
+7   category 
+
+7   cerr 
+
+7   circles 
+
+7   closest 
+
+7   combination 
+
+7   commas 
+
+7   completes 
+
+7   completing 
+
+7   contribution 
+
+7   controller 
+
+7   conventions 
+
+7   copystream 
+
+7   cptr 
+
+7   cstdlib 
+
+7   cstk 
+
+7   cubes 
+
+7   darts 
+
+7   defaultextension 
+
+7   demonstrate 
+
+7   destructors 
+
+7   developing 
+
+7   displaytree 
+
+7   documentation 
+
+7   dwarftree 
+
+7   dwarves 
+
+7   east 
+
+7   edges 
+
+7   effort 
+
+7   elapsed 
+
+7   empirical 
+
+7   encoding 
+
+7   equation 
+
+7   establish 
+
+7   evenly 
+
+7   events 
+
+7   exciting 
+
+7   experiment 
+
+7   extensive 
+
+7   fewer 
+
+7   findbestmove 
+
+7   fine 
+
+7   foreach 
+
+7   formatting 
+
+7   fractals 
+
+7   frees 
+
+7   friends 
+
+7   garbage 
+
+7   gauss 
+
+7   generalize 
+
+7   generatepermutations 
+
+7   generator 
+
+7   goals 
+
+7   guarantees 
+
+7   handy 
+
+7   helper 
+
+7   histogram 
+
+7   holistic 
+
+7   house 
+
+7   hybrid 
+
+7   ideally 
+
+7   ideas 
+
+7   identically 
+
+7   implications 
+
+7   increments 
+
+7   inner 
+
+7   intermediate 
+
+7   interpreted 
+
+7   ip 
+
+7   isleapyear 
+
+7   january 
+
+7   judges 
+
+7   keyboard 
+
+7   lets 
+
+7   lifo 
+
+7   linetopiglatin 
+
+7   longest 
+
+7   marking 
+
+7   measurement 
+
+7   member 
+
+7   members 
+
+7   membership 
+
+7   naturally 
+
+7   nd 
+
+7   nexttoken 
+
+7   nine 
+
+7   nth 
+
+7   obenglobish 
+
+7   optimizing 
+
+7   organization 
+
+7   our 
+
+7   outcomes 
+
+7   outline 
+
+7   paper 
+
+7   paradigms 
+
+7   partly 
+
+7   pascal 
+
+7   past 
+
+7   paste 
+
+7   pegs 
+
+7   period 
+
+7   pick 
+
+7   piglatin 
+
+7   placeholder 
+
+7   plate 
+
+7   players 
+
+7   polish 
+
+7   popular 
+
+7   possibly 
+
+7   proper 
+
+7   protected 
+
+7   providing 
+
+7   purposes 
+
+7   queen 
+
+7   ratio 
+
+7   reaching 
+
+7   reader 
+
+7   referred 
+
+7   relying 
+
+7   research 
+
+7   reserved 
+
+7   retrieve 
+
+7   revised 
+
+7   rightmost 
+
+7   rooted 
+
+7   routes 
+
+7   saw 
+
+7   seemingly 
+
+7   segment 
+
+7   segments 
+
+7   selected 
+
+7   setprecision 
+
+7   simulates 
+
+7   simulations 
+
+7   slow 
+
+7   slowly 
+
+7   solves 
+
+7   sophistication 
+
+7   south 
+
+7   specialized 
+
+7   speed 
+
+7   spent 
+
+7   stable 
+
+7   strictly 
+
+7   suggested 
+
+7   sun 
+
+7   tab 
+
+7   tasks 
+
+7   throw 
+
+7   timing 
+
+7   tiny 
+
+7   u 
+
+7   underscore 
+
+7   uniformly 
+
+7   updated 
+
+7   valuable 
+
+7   vary 
+
+7   volunteers 
+
+7   vowel 
+
+7   weights 
+
+7   wordtopiglatin 
+
+7   xn 
+
+8   abbreviation 
+
+8   acts 
+
+8   advance 
+
+8   approximate 
+
+8   ask 
+
+8   aspects 
+
+8   attention 
+
+8   belong 
+
+8   bobcratchit 
+
+8   bound 
+
+8   breaking 
+
+8   caesar 
+
+8   calculates 
+
+8   careful 
+
+8   carry 
+
+8   cat 
+
+8   causes 
+
+8   central 
+
+8   chess 
+
+8   circumstances 
+
+8   classification 
+
+8   collectcontributions 
+
+8   collision 
+
+8   comment 
+
+8   complement 
+
+8   concern 
+
+8   connect 
+
+8   converted 
+
+8   cos 
+
+8   creation 
+
+8   cut 
+
+8   describes 
+
+8   dna 
+
+8   doc 
+
+8   drawfractalline 
+
+8   drawpolarline 
+
+8   duplicated 
+
+8   employees 
+
+8   encapsulation 
+
+8   endpoints 
+
+8   essence 
+
+8   event 
+
+8   exits 
+
+8   extending 
+
+8   extensions 
+
+8   fails 
+
+8   fast 
+
+8   flight 
+
+8   forces 
+
+8   heads 
+
+8   hidden 
+
+8   hierarchical 
+
+8   icon 
+
+8   imp 
+
+8   independently 
+
+8   inductive 
+
+8   inherit 
+
+8   interior 
+
+8   interprets 
+
+8   isempty 
+
+8   issue 
+
+8   life 
+
+8   light 
+
+8   logarithmic 
+
+8   maintains 
+
+8   manipulate 
+
+8   movecursortoend 
+
+8   neumann 
+
+8   obtain 
+
+8   occasion 
+
+8   onto 
+
+8   opportunity 
+
+8   optimal 
+
+8   option 
+
+8   organized 
+
+8   outfile 
+
+8   override 
+
+8   partitioning 
+
+8   pipe 
+
+8   pixel 
+
+8   placed 
+
+8   played 
+
+8   postorder 
+
+8   precede 
+
+8   precedes 
+
+8   predefined 
+
+8   preorder 
+
+8   previously 
+
+8   printing 
+
+8   proceed 
+
+8   product 
+
+8   promptuserforfile 
+
+8   randomreal 
+
+8   rect 
+
+8   rectangular 
+
+8   removes 
+
+8   replaces 
+
+8   respectively 
+
+8   shallow 
+
+8   shifting 
+
+8   sides 
+
+8   simplegraph 
+
+8   simplifying 
+
+8   sizes 
+
+8   sleepy 
+
+8   slightly 
+
+8   stock 
+
+8   structured 
+
+8   subject 
+
+8   subsetsumexists 
+
+8   subtract 
+
+8   tabs 
+
+8   temperature 
+
+8   threshold 
+
+8   tick 
+
+8   tradeoff 
+
+8   united 
+
+8   unlikely 
+
+8   unpredictable 
+
+8   visible 
+
+8   wildcardmatch 
+
+8   writes 
+
+9   act 
+
+9   affect 
+
+9   alphabetical 
+
+9   alternative 
+
+9   angle 
+
+9   anything 
+
+9   approaches 
+
+9   associative 
+
+9   ball 
+
+9   bitwise 
+
+9   branches 
+
+9   building 
+
+9   calculating 
+
+9   capabilities 
+
+9   capable 
+
+9   cards 
+
+9   categories 
+
+9   changed 
+
+9   cipher 
+
+9   closer 
+
+9   coastline 
+
+9   col 
+
+9   collections 
+
+9   colors 
+
+9   combined 
+
+9   coming 
+
+9   comparing 
+
+9   compilers 
+
+9   constitute 
+
+9   constitutes 
+
+9   construct 
+
+9   continuing 
+
+9   conversely 
+
+9   cv 
+
+9   cycling 
+
+9   deciding 
+
+9   deepcopy 
+
+9   deleting 
+
+9   dereference 
+
+9   destination 
+
+9   disappear 
+
+9   discrete 
+
+9   distinction 
+
+9   distributed 
+
+9   dopey 
+
+9   doubly 
+
+9   downward 
+
+9   edge 
+
+9   emphasize 
+
+9   encountered 
+
+9   entering 
+
+9   entitled 
+
+9   expanded 
+
+9   falls 
+
+9   fashion 
+
+9   fstream 
+
+9   fun 
+
+9   gain 
+
+9   generic 
+
+9   george 
+
+9   getting 
+
+9   giving 
+
+9   highly 
+
+9   identities 
+
+9   idiomatic 
+
+9   ignored 
+
+9   immutable 
+
+9   implication 
+
+9   incorrect 
+
+9   infinite 
+
+9   informal 
+
+9   initially 
+
+9   inorder 
+
+9   intuitive 
+
+9   isdigit 
+
+9   isodd 
+
+9   istringstream 
+
+9   knight 
+
+9   label 
+
+9   leaf 
+
+9   leftfrom 
+
+9   lettercounts 
+
+9   listing 
+
+9   loops 
+
+9   manage 
+
+9   master 
+
+9   meaning 
+
+9   minutes 
+
+9   mutual 
+
+9   nodetype 
+
+9   notion 
+
+9   numbered 
+
+9   numerator 
+
+9   observation 
+
+9   older 
+
+9   piece 
+
+9   potential 
+
+9   powers 
+
+9   pp 
+
+9   preceded 
+
+9   professional 
+
+9   pushed 
+
+9   qualitative 
+
+9   randomly 
+
+9   rank 
+
+9   rate 
+
+9   readt 
+
+9   records 
+
+9   recurrence 
+
+9   redefine 
+
+9   reduces 
+
+9   related 
+
+9   removed 
+
+9   replacing 
+
+9   requests 
+
+9   respects 
+
+9   response 
+
+9   ring 
+
+9   roots 
+
+9   rows 
+
+9   save 
+
+9   semicolon 
+
+9   sierpinski 
+
+9   straight 
+
+9   strand 
+
+9   strlib 
+
+9   subtle 
+
+9   successful 
+
+9   suggest 
+
+9   suit 
+
+9   symboltable 
+
+9   terminology 
+
+9   tn 
+
+9   toupper 
+
+9   traversals 
+
+9   traversing 
+
+9   uml 
+
+9   updates 
+
+9   walk 
+
+9   white 
+
+9   wide 
+
+10   abs 
+
+10   additive 
+
+10   addkfunction 
+
+10   altogether 
+
+10   areas 
+
+10   arises 
+
+10   ascending 
+
+10   basis 
+
+10   behaves 
+
+10   biological 
+
+10   bounds 
+
+10   calculations 
+
+10   catch 
+
+10   chooses 
+
+10   collisions 
+
+10   converting 
+
+10   costs 
+
+10   counterparts 
+
+10   debugging 
+
+10   decompose 
+
+10   denominator 
+
+10   detailed 
+
+10   differentiate 
+
+10   distinct 
+
+10   dominating 
+
+10   dominos 
+
+10   draws 
+
+10   encapsulating 
+
+10   ending 
+
+10   euclid 
+
+10   exponential 
+
+10   extraction 
+
+10   feel 
+
+10   gcd 
+
+10   geometrical 
+
+10   getname 
+
+10   getx 
+
+10   helpful 
+
+10   hide 
+
+10   hides 
+
+10   impl 
+
+10   inclusion 
+
+10   inefficient 
+
+10   interest 
+
+10   interval 
+
+10   introducing 
+
+10   invokes 
+
+10   john 
+
+10   kind 
+
+10   knowledge 
+
+10   koch 
+
+10   lead 
+
+10   lexicographic 
+
+10   limitations 
+
+10   m 
+
+10   magic 
+
+10   matching 
+
+10   meet 
+
+10   mondrian 
+
+10   mystack 
+
+10   network 
+
+10   ofstream 
+
+10   operates 
+
+10   ordinarily 
+
+10   origin 
+
+10   payroll 
+
+10   perfectly 
+
+10   perhaps 
+
+10   phases 
+
+10   phone 
+
+10   pixels 
+
+10   playing 
+
+10   present 
+
+10   prior 
+
+10   pseudorandom 
+
+10   pure 
+
+10   pushing 
+
+10   randomchance 
+
+10   references 
+
+10   reflects 
+
+10   relevant 
+
+10   respond 
+
+10   restore 
+
+10   say 
+
+10   scientific 
+
+10   scores 
+
+10   shakespeare 
+
+10   simplification 
+
+10   spanning 
+
+10   stands 
+
+10   stop 
+
+10   strcpy 
+
+10   sudoku 
+
+10   tends 
+
+10   th 
+
+10   theseus 
+
+10   tp 
+
+10   treats 
+
+10   tricky 
+
+10   trie 
+
+10   vertical 
+
+10   visit 
+
+10   von 
+
+10   w 
+
+10   wonderful 
+
+10   wrote 
+
+11   according 
+
+11   allowed 
+
+11   arranged 
+
+11   arrive 
+
+11   asked 
+
+11   asks 
+
+11   association 
+
+11   below 
+
+11   blue 
+
+11   bracket 
+
+11   century 
+
+11   choices 
+
+11   concerned 
+
+11   considered 
+
+11   counts 
+
+11   day 
+
+11   direct 
+
+11   distribution 
+
+11   enumeration 
+
+11   equally 
+
+11   essentially 
+
+11   extent 
+
+11   failure 
+
+11   fills 
+
+11   finally 
+
+11   functionality 
+
+11   hashset 
+
+11   henry 
+
+11   hops 
+
+11   importantly 
+
+11   increasing 
+
+11   insertcharacter 
+
+11   iseven 
+
+11   king 
+
+11   l 
+
+11   lex 
+
+11   looked 
+
+11   lowest 
+
+11   mathematicians 
+
+11   messages 
+
+11   minus 
+
+11   modify 
+
+11   movecursorforward 
+
+11   movesingledisk 
+
+11   multiplication 
+
+11   mutually 
+
+11   myqueue 
+
+11   newly 
+
+11   obvious 
+
+11   otherwise 
+
+11   overall 
+
+11   parameterized 
+
+11   picture 
+
+11   pile 
+
+11   predict 
+
+11   processes 
+
+11   produced 
+
+11   really 
+
+11   reasonably 
+
+11   receiver 
+
+11   requirements 
+
+11   responsible 
+
+11   roll 
+
+11   scrabble 
+
+11   serious 
+
+11   stand 
+
+11   started 
+
+11   successive 
+
+11   sufficiently 
+
+11   tests 
+
+11   throughout 
+
+11   traditionally 
+
+11   trouble 
+
+11   unique 
+
+11   venn 
+
+11   west 
+
+11   width 
+
+11   winning 
+
+11   wrapper 
+
+11   z 
+
+12   abc 
+
+12   bind 
+
+12   cashier 
+
+12   cause 
+
+12   color 
+
+12   concatenation 
+
+12   conceptually 
+
+12   concrete 
+
+12   confusing 
+
+12   counterpart 
+
+12   critical 
+
+12   currently 
+
+12   dat 
+
+12   descent 
+
+12   despite 
+
+12   die 
+
+12   dimensional 
+
+12   discovered 
+
+12   divides 
+
+12   dot 
+
+12   editors 
+
+12   environment 
+
+12   existence 
+
+12   familytreenode 
+
+12   filelib 
+
+12   generated 
+
+12   getter 
+
+12   greatest 
+
+12   happy 
+
+12   history 
+
+12   identical 
+
+12   identified 
+
+12   initializing 
+
+12   interpretation 
+
+12   isn 
+
+12   keeps 
+
+12   knowing 
+
+12   listed 
+
+12   load 
+
+12   locations 
+
+12   major 
+
+12   mind 
+
+12   nonnegative 
+
+12   perfect 
+
+12   plays 
+
+12   pointing 
+
+12   polynomial 
+
+12   punctuation 
+
+12   raise 
+
+12   record 
+
+12   relationships 
+
+12   repeat 
+
+12   repeatedly 
+
+12   restriction 
+
+12   rhs 
+
+12   rise 
+
+12   seed 
+
+12   serves 
+
+12   stops 
+
+12   stringtointeger 
+
+12   subexpressions 
+
+12   translates 
+
+12   visited 
+
+13   accomplish 
+
+13   achieve 
+
+13   ahead 
+
+13   allowing 
+
+13   angeles 
+
+13   approximation 
+
+13   arbitrary 
+
+13   arrow 
+
+13   arrows 
+
+13   assigns 
+
+13   behave 
+
+13   conquer 
+
+13   correspond 
+
+13   decide 
+
+13   den 
+
+13   description 
+
+13   development 
+
+13   directions 
+
+13   encounter 
+
+13   eof 
+
+13   expandcapacity 
+
+13   extended 
+
+13   extra 
+
+13   finished 
+
+13   finite 
+
+13   found 
+
+13   framework 
+
+13   helloworld 
+
+13   hourlyemployee 
+
+13   human 
+
+13   idiom 
+
+13   illegal 
+
+13   implies 
+
+13   indices 
+
+13   inherits 
+
+13   intended 
+
+13   introduce 
+
+13   keypad 
+
+13   leading 
+
+13   los 
+
+13   mechanics 
+
+13   morse 
+
+13   namespace 
+
+13   notice 
+
+13   optional 
+
+13   outlined 
+
+13   pagerank 
+
+13   permutation 
+
+13   plus 
+
+13   prompt 
+
+13   proposition 
+
+13   pseudocode 
+
+13   reached 
+
+13   recent 
+
+13   reimplement 
+
+13   repeated 
+
+13   respect 
+
+13   seconds 
+
+13   separated 
+
+13   seven 
+
+13   shared 
+
+13   shifted 
+
+13   sin 
+
+13   software 
+
+13   solved 
+
+13   starts 
+
+13   surprising 
+
+13   trace 
+
+13   tracing 
+
+13   unary 
+
+13   william 
+
+13   wind 
+
+14   against 
+
+14   arise 
+
+14   axis 
+
+14   belongs 
+
+14   board 
+
+14   build 
+
+14   checkout 
+
+14   clock 
+
+14   column 
+
+14   columns 
+
+14   completely 
+
+14   concepts 
+
+14   conditional 
+
+14   considerable 
+
+14   consistent 
+
+14   coordinate 
+
+14   determining 
+
+14   did 
+
+14   discussed 
+
+14   divisor 
+
+14   done 
+
+14   editing 
+
+14   ever 
+
+14   facilities 
+
+14   faster 
+
+14   flexibility 
+
+14   fortunately 
+
+14   front 
+
+14   greek 
+
+14   ideal 
+
+14   illustration 
+
+14   initializer 
+
+14   integral 
+
+14   item 
+
+14   iterating 
+
+14   lies 
+
+14   maintaining 
+
+14   measured 
+
+14   mechanism 
+
+14   models 
+
+14   mystring 
+
+14   noted 
+
+14   num 
+
+14   os 
+
+14   peg 
+
+14   positive 
+
+14   refers 
+
+14   relation 
+
+14   relational 
+
+14   report 
+
+14   room 
+
+14   scale 
+
+14   score 
+
+14   sizeof 
+
+14   specification 
+
+14   std 
+
+14   subtrees 
+
+14   toward 
+
+14   unchanged 
+
+14   wanted 
+
+14   wrong 
+
+15   account 
+
+15   additivesequence 
+
+15   backward 
+
+15   breadth 
+
+15   center 
+
+15   clearly 
+
+15   computed 
+
+15   conditions 
+
+15   contained 
+
+15   determined 
+
+15   dividing 
+
+15   entered 
+
+15   everything 
+
+15   explore 
+
+15   exponent 
+
+15   figures 
+
+15   fill 
+
+15   filled 
+
+15   focus 
+
+15   format 
+
+15   friend 
+
+15   getpay 
+
+15   grammar 
+
+15   grows 
+
+15   increase 
+
+15   inserted 
+
+15   iostream 
+
+15   labeled 
+
+15   largest 
+
+15   manipulators 
+
+15   meant 
+
+15   natural 
+
+15   nonetheless 
+
+15   oval 
+
+15   people 
+
+15   precise 
+
+15   principle 
+
+15   principles 
+
+15   quarter 
+
+15   randominteger 
+
+15   rectangles 
+
+15   relative 
+
+15   rely 
+
+15   rh 
+
+15   share 
+
+15   simplifies 
+
+15   struct 
+
+15   systems 
+
+15   tables 
+
+15   tell 
+
+15   tells 
+
+15   thinking 
+
+15   tmp 
+
+15   wall 
+
+15   won 
+
+16   ability 
+
+16   boston 
+
+16   challenge 
+
+16   city 
+
+16   closely 
+
+16   combine 
+
+16   composed 
+
+16   consist 
+
+16   counting 
+
+16   depend 
+
+16   dictionary 
+
+16   dijkstra 
+
+16   dummy 
+
+16   effectively 
+
+16   evaluation 
+
+16   expand 
+
+16   fn 
+
+16   formulation 
+
+16   frames 
+
+16   frequently 
+
+16   his 
+
+16   implementer 
+
+16   improve 
+
+16   lh 
+
+16   ll 
+
+16   lookup 
+
+16   lvalue 
+
+16   nested 
+
+16   none 
+
+16   powerful 
+
+16   proportional 
+
+16   reade 
+
+16   searching 
+
+16   selecting 
+
+16   shapes 
+
+16   shift 
+
+16   stl 
+
+16   supply 
+
+16   swap 
+
+16   taken 
+
+16   theoretical 
+
+16   thereby 
+
+16   translate 
+
+16   translation 
+
+16   twice 
+
+16   typedef 
+
+16   unbalanced 
+
+16   undirected 
+
+16   unlike 
+
+16   upper 
+
+16   we 
+
+16   worse 
+
+17   accessible 
+
+17   across 
+
+17   bad 
+
+17   boundary 
+
+17   care 
+
+17   characteristics 
+
+17   compare 
+
+17   consisting 
+
+17   constructors 
+
+17   conversion 
+
+17   copied 
+
+17   decision 
+
+17   deep 
+
+17   degree 
+
+17   develop 
+
+17   developed 
+
+17   efficiently 
+
+17   englishwords 
+
+17   enters 
+
+17   evaluates 
+
+17   executes 
+
+17   exist 
+
+17   exit 
+
+17   extension 
+
+17   generally 
+
+17   included 
+
+17   increment 
+
+17   indeed 
+
+17   initialization 
+
+17   intersection 
+
+17   involving 
+
+17   istream 
+
+17   items 
+
+17   java 
+
+17   limits 
+
+17   lowercase 
+
+17   mathematician 
+
+17   odd 
+
+17   options 
+
+17   performing 
+
+17   possibility 
+
+17   powersoftwo 
+
+17   precision 
+
+17   predicate 
+
+17   remainder 
+
+17   replaced 
+
+17   simplified 
+
+17   situations 
+
+17   smallest 
+
+17   snowflake 
+
+17   solvemaze 
+
+17   specifying 
+
+17   src 
+
+17   stores 
+
+17   students 
+
+17   suffix 
+
+17   tries 
+
+17   typename 
+
+17   union 
+
+17   usual 
+
+18   adopting 
+
+18   cctype 
+
+18   cmath 
+
+18   coding 
+
+18   coin 
+
+18   designers 
+
+18   determines 
+
+18   differ 
+
+18   domino 
+
+18   encounters 
+
+18   eval 
+
+18   evaluating 
+
+18   express 
+
+18   fail 
+
+18   findnode 
+
+18   fraction 
+
+18   global 
+
+18   happen 
+
+18   hashing 
+
+18   ifstream 
+
+18   illustrates 
+
+18   induction 
+
+18   involves 
+
+18   ispalindrome 
+
+18   learned 
+
+18   limited 
+
+18   logic 
+
+18   machines 
+
+18   matches 
+
+18   matrix 
+
+18   mostly 
+
+18   north 
+
+18   pieces 
+
+18   proceeds 
+
+18   processed 
+
+18   role 
+
+18   setting 
+
+18   signal 
+
+18   subproblems 
+
+18   substring 
+
+18   suggests 
+
+18   templates 
+
+18   under 
+
+18   valid 
+
+19   allocates 
+
+19   among 
+
+19   built 
+
+19   byte 
+
+19   commands 
+
+19   convention 
+
+19   conventional 
+
+19   converts 
+
+19   creating 
+
+19   cycles 
+
+19   date 
+
+19   division 
+
+19   dots 
+
+19   dynamically 
+
+19   enclosed 
+
+19   evaluated 
+
+19   fall 
+
+19   formed 
+
+19   freeing 
+
+19   grumpy 
+
+19   hierarchies 
+
+19   instructions 
+
+19   intarray 
+
+19   leaving 
+
+19   management 
+
+19   measure 
+
+19   negative 
+
+19   neighbors 
+
+19   palindrome 
+
+19   prime 
+
+19   print 
+
+19   procedure 
+
+19   provided 
+
+19   reasonable 
+
+19   remain 
+
+19   serve 
+
+19   simplicity 
+
+19   somewhere 
+
+19   soon 
+
+19   supplied 
+
+19   temporary 
+
+19   theory 
+
+19   tools 
+
+19   whitespace 
+
+20   alphabet 
+
+20   behind 
+
+20   bottom 
+
+20   box 
+
+20   complicated 
+
+20   declaring 
+
+20   depending 
+
+20   differences 
+
+20   divided 
+
+20   enumerated 
+
+20   eventually 
+
+20   exception 
+
+20   facility 
+
+20   factorial 
+
+20   familiar 
+
+20   features 
+
+20   fix 
+
+20   formal 
+
+20   formatted 
+
+20   gray 
+
+20   gwindow 
+
+20   importance 
+
+20   instances 
+
+20   let 
+
+20   lower 
+
+20   moment 
+
+20   nature 
+
+20   passing 
+
+20   quickly 
+
+20   rabbits 
+
+20   recognize 
+
+20   region 
+
+20   remains 
+
+20   representations 
+
+20   returning 
+
+20   shorthand 
+
+20   showing 
+
+20   simpio 
+
+20   subsequent 
+
+20   syntactic 
+
+20   techniques 
+
+20   tend 
+
+20   today 
+
+20   tool 
+
+20   tostring 
+
+20   waiting 
+
+20   whatever 
+
+20   york 
+
+21   calculate 
+
+21   calculator 
+
+21   callback 
+
+21   changing 
+
+21   components 
+
+21   days 
+
+21   directed 
+
+21   explicit 
+
+21   filename 
+
+21   fits 
+
+21   getinteger 
+
+21   grow 
+
+21   he 
+
+21   iterate 
+
+21   iterative 
+
+21   keeping 
+
+21   latin 
+
+21   match 
+
+21   maximum 
+
+21   month 
+
+21   overload 
+
+21   paradigm 
+
+21   partially 
+
+21   phase 
+
+21   presumably 
+
+21   reach 
+
+21   red 
+
+21   removing 
+
+21   responsibility 
+
+21   scientists 
+
+21   seattle 
+
+21   shorter 
+
+21   solutions 
+
+21   states 
+
+21   testing 
+
+21   themselves 
+
+21   typical 
+
+21   unless 
+
+21   years 
+
+21   zero 
+
+22   airline 
+
+22   applied 
+
+22   applies 
+
+22   assigning 
+
+22   brackets 
+
+22   bstnode 
+
+22   card 
+
+22   chapters 
+
+22   chicago 
+
+22   cin 
+
+22   conceptual 
+
+22   contexts 
+
+22   customers 
+
+22   eliminate 
+
+22   ensures 
+
+22   equivalent 
+
+22   exists 
+
+22   expect 
+
+22   expressed 
+
+22   factors 
+
+22   hello 
+
+22   identifier 
+
+22   imagine 
+
+22   impossible 
+
+22   initializes 
+
+22   involve 
+
+22   logical 
+
+22   marks 
+
+22   mask 
+
+22   opposite 
+
+22   ostream 
+
+22   others 
+
+22   parsing 
+
+22   pig 
+
+22   possibilities 
+
+22   power 
+
+22   prints 
+
+22   quite 
+
+22   reaches 
+
+22   said 
+
+22   series 
+
+22   somewhat 
+
+22   sqrt 
+
+22   squares 
+
+22   txt 
+
+23   compound 
+
+23   continue 
+
+23   drawing 
+
+23   errors 
+
+23   faith 
+
+23   finds 
+
+23   help 
+
+23   hexadecimal 
+
+23   identify 
+
+23   job 
+
+23   leave 
+
+23   levels 
+
+23   needed 
+
+23   nothing 
+
+23   operate 
+
+23   processing 
+
+23   quadratic 
+
+23   reasons 
+
+23   rectangle 
+
+23   remove 
+
+23   sequences 
+
+23   service 
+
+23   significant 
+
+23   six 
+
+23   substr 
+
+23   switch 
+
+23   tail 
+
+23   triangle 
+
+23   view 
+
+24   adjacency 
+
+24   adopt 
+
+24   clause 
+
+24   comments 
+
+24   discussion 
+
+24   during 
+
+24   effective 
+
+24   fit 
+
+24   forth 
+
+24   forward 
+
+24   generating 
+
+24   going 
+
+24   gw 
+
+24   hanoi 
+
+24   hardware 
+
+24   increases 
+
+24   independent 
+
+24   interpreter 
+
+24   invoke 
+
+24   maintain 
+
+24   minimax 
+
+24   ordering 
+
+24   outside 
+
+24   parent 
+
+24   performed 
+
+24   prototypes 
+
+24   prove 
+
+24   returned 
+
+24   sign 
+
+24   sophisticated 
+
+24   spaces 
+
+24   storing 
+
+24   taking 
+
+24   units 
+
+24   uppercase 
+
+24   var 
+
+24   worst 
+
+25   advantages 
+
+25   avl 
+
+25   close 
+
+25   coins 
+
+25   command 
+
+25   comparison 
+
+25   computes 
+
+25   considerably 
+
+25   contrast 
+
+25   convenient 
+
+25   coordinates 
+
+25   explain 
+
+25   explicitly 
+
+25   functional 
+
+25   getline 
+
+25   harder 
+
+25   holds 
+
+25   immediately 
+
+25   leads 
+
+25   location 
+
+25   missing 
+
+25   my 
+
+25   pairs 
+
+25   parse 
+
+25   perspective 
+
+25   pop 
+
+25   probability 
+
+25   scope 
+
+25   sentinel 
+
+25   solving 
+
+25   variety 
+
+26   cells 
+
+26   circle 
+
+26   cities 
+
+26   complex 
+
+26   created 
+
+26   displays 
+
+26   domain 
+
+26   early 
+
+26   execute 
+
+26   indicating 
+
+26   leap 
+
+26   learning 
+
+26   links 
+
+26   mapping 
+
+26   matter 
+
+26   middle 
+
+26   minimum 
+
+26   offer 
+
+26   package 
+
+26   parser 
+
+26   per 
+
+26   pivot 
+
+26   portland 
+
+26   primary 
+
+26   reduce 
+
+26   sufficient 
+
+26   supports 
+
+26   things 
+
+26   virtual 
+
+27   ak 
+
+27   assuming 
+
+27   avoid 
+
+27   away 
+
+27   block 
+
+27   buckets 
+
+27   caller 
+
+27   children 
+
+27   choice 
+
+27   course 
+
+27   full 
+
+27   inserting 
+
+27   internally 
+
+27   mark 
+
+27   opponent 
+
+27   performs 
+
+27   screen 
+
+27   source 
+
+27   versions 
+
+28   computation 
+
+28   connections 
+
+28   declarations 
+
+28   evaluate 
+
+28   executing 
+
+28   family 
+
+28   feature 
+
+28   further 
+
+28   involved 
+
+28   j 
+
+28   leaves 
+
+28   mapall 
+
+28   permutations 
+
+28   practical 
+
+28   presented 
+
+28   probably 
+
+28   rating 
+
+28   simulate 
+
+28   situation 
+
+28   specifies 
+
+28   straightforward 
+
+28   traversal 
+
+28   yourself 
+
+29   basic 
+
+29   calculation 
+
+29   combinations 
+
+29   decimal 
+
+29   delete 
+
+29   depth 
+
+29   dequeue 
+
+29   except 
+
+29   fixed 
+
+29   hashmap 
+
+29   head 
+
+29   manipulator 
+
+29   mean 
+
+29   note 
+
+29   overview 
+
+29   paths 
+
+29   pi 
+
+29   quicksort 
+
+29   relationship 
+
+29   remember 
+
+29   replace 
+
+29   rewrite 
+
+29   simplest 
+
+29   simplify 
+
+29   sometimes 
+
+29   symbols 
+
+29   year 
+
+30   assume 
+
+30   codes 
+
+30   computers 
+
+30   corresponds 
+
+30   eight 
+
+30   entry 
+
+30   factor 
+
+30   nk 
+
+30   off 
+
+30   old 
+
+30   pass 
+
+30   passed 
+
+30   prefix 
+
+30   previous 
+
+30   produces 
+
+30   rest 
+
+30   rotation 
+
+30   seem 
+
+30   sorted 
+
+30   third 
+
+31   ascii 
+
+31   bytes 
+
+31   declares 
+
+31   disks 
+
+31   experience 
+
+31   f 
+
+31   games 
+
+31   graphical 
+
+31   greater 
+
+31   higher 
+
+31   introduction 
+
+31   little 
+
+31   never 
+
+31   pages 
+
+31   place 
+
+31   play 
+
+31   puzzle 
+
+31   raisetopower 
+
+31   relatively 
+
+31   show 
+
+31   static 
+
+31   towers 
+
+31   trying 
+
+31   web 
+
+32   choosing 
+
+32   hashcode 
+
+32   known 
+
+32   moves 
+
+32   occur 
+
+32   operands 
+
+32   overloaded 
+
+32   sections 
+
+32   target 
+
+32   thing 
+
+32   too 
+
+32   unsigned 
+
+33   added 
+
+33   addresses 
+
+33   balanced 
+
+33   convert 
+
+33   digit 
+
+33   disk 
+
+33   executed 
+
+33   fibonacci 
+
+33   five 
+
+33   ignore 
+
+33   introduces 
+
+33   merge 
+
+33   ordered 
+
+33   parentheses 
+
+33   properties 
+
+33   queues 
+
+33   remaining 
+
+33   reverse 
+
+33   superclass 
+
+33   worth 
+
+34   actual 
+
+34   actually 
+
+34   allocation 
+
+34   beyond 
+
+34   break 
+
+34   computing 
+
+34   denver 
+
+34   dir 
+
+34   extend 
+
+34   forms 
+
+34   header 
+
+34   hold 
+
+34   indicated 
+
+34   made 
+
+34   marked 
+
+34   multiple 
+
+34   stringmap 
+
+35   assigned 
+
+35   cannot 
+
+35   child 
+
+35   chosen 
+
+35   clear 
+
+35   gets 
+
+35   hard 
+
+35   illustrate 
+
+35   insight 
+
+35   iteration 
+
+35   numeric 
+
+35   operand 
+
+35   pair 
+
+35   refer 
+
+35   seems 
+
+35   streams 
+
+35   syntax 
+
+35   window 
+
+36   atlanta 
+
+36   checks 
+
+36   continues 
+
+36   directly 
+
+36   ends 
+
+36   entries 
+
+36   final 
+
+36   generates 
+
+36   insert 
+
+36   interesting 
+
+36   legal 
+
+36   movetower 
+
+36   ones 
+
+36   priority 
+
+36   recursively 
+
+36   resulting 
+
+36   science 
+
+36   select 
+
+36   turns 
+
+36   yet 
+
+37   boolean 
+
+37   checking 
+
+37   copies 
+
+37   copying 
+
+37   essential 
+
+37   extremely 
+
+37   fractal 
+
+37   g 
+
+37   message 
+
+37   precisely 
+
+37   primitive 
+
+37   something 
+
+37   subclasses 
+
+38   allocate 
+
+38   almost 
+
+38   being 
+
+38   desired 
+
+38   else 
+
+38   goes 
+
+38   initialized 
+
+38   maps 
+
+38   occurs 
+
+38   overloading 
+
+38   player 
+
+38   property 
+
+38   tokenscanner 
+
+38   whole 
+
+39   adds 
+
+39   applying 
+
+39   bucket 
+
+39   customer 
+
+39   designed 
+
+39   entirely 
+
+39   followed 
+
+39   implements 
+
+39   initialize 
+
+39   mathematics 
+
+39   pt 
+
+39   row 
+
+39   shape 
+
+39   short 
+
+39   special 
+
+39   understanding 
+
+39   who 
+
+40   advantage 
+
+40   amount 
+
+40   certainly 
+
+40   correctly 
+
+40   destructor 
+
+40   enter 
+
+40   fundamental 
+
+40   height 
+
+40   helps 
+
+40   low 
+
+40   open 
+
+40   patterns 
+
+40   valuetype 
+
+40   various 
+
+41   depends 
+
+41   discover 
+
+41   doesn 
+
+41   formula 
+
+41   high 
+
+41   infile 
+
+41   nim 
+
+41   separate 
+
+41   sorting 
+
+41   summary 
+
+41   symbol 
+
+41   unfortunately 
+
+42   again 
+
+42   configuration 
+
+42   ensure 
+
+42   finish 
+
+42   give 
+
+42   moving 
+
+42   shortest 
+
+42   subclass 
+
+42   task 
+
+42   tokens 
+
+43   algorithmic 
+
+43   area 
+
+43   associated 
+
+43   describe 
+
+43   easiest 
+
+43   employee 
+
+43   exp 
+
+43   re 
+
+43   real 
+
+43   stacks 
+
+43   ve 
+
+43   working 
+
+44   automatically 
+
+44   become 
+
+44   concept 
+
+44   console 
+
+44   dallas 
+
+44   draw 
+
+44   easily 
+
+44   export 
+
+44   exported 
+
+44   gives 
+
+44   insertnode 
+
+44   interfaces 
+
+44   programmer 
+
+44   provide 
+
+44   reason 
+
+44   representing 
+
+44   spire 
+
+44   tower 
+
+45   black 
+
+45   certain 
+
+45   diagrams 
+
+45   far 
+
+45   graphics 
+
+45   insertion 
+
+45   lists 
+
+45   offers 
+
+45   produce 
+
+45   questions 
+
+45   reading 
+
+45   subset 
+
+45   technique 
+
+45   traditional 
+
+45   very 
+
+46   chance 
+
+46   divide 
+
+46   enqueue 
+
+46   log 
+
+46   question 
+
+46   scanner 
+
+46   side 
+
+46   specific 
+
+47   compute 
+
+47   condition 
+
+47   editorbuffer 
+
+47   together 
+
+48   abstraction 
+
+48   assign 
+
+48   balance 
+
+48   big 
+
+48   detail 
+
+48   fib 
+
+48   later 
+
+49   around 
+
+49   available 
+
+49   becomes 
+
+49   don 
+
+49   follow 
+
+49   having 
+
+49   here 
+
+49   particularly 
+
+49   precedence 
+
+49   similarly 
+
+49   support 
+
+49   term 
+
+49   whenever 
+
+50   addition 
+
+50   answer 
+
+50   distance 
+
+50   execution 
+
+50   modern 
+
+50   purpose 
+
+51   connected 
+
+51   control 
+
+51   cp 
+
+51   floating 
+
+51   parts 
+
+51   plot 
+
+51   provides 
+
+51   since 
+
+52   base 
+
+52   capacity 
+
+52   cost 
+
+52   internal 
+
+52   longer 
+
+52   seen 
+
+52   simulation 
+
+52   unit 
+
+52   world 
+
+53   average 
+
+53   bool 
+
+53   count 
+
+53   digits 
+
+53   named 
+
+53   runs 
+
+53   storage 
+
+53   subtree 
+
+54   arc 
+
+54   creates 
+
+54   endl 
+
+54   existing 
+
+54   finding 
+
+54   least 
+
+54   max 
+
+54   moreover 
+
+54   notation 
+
+54   positions 
+
+54   r 
+
+54   simpler 
+
+54   steps 
+
+54   track 
+
+55   comes 
+
+55   doing 
+
+55   fields 
+
+55   looking 
+
+55   small 
+
+55   style 
+
+55   sure 
+
+55   try 
+
+56   analysis 
+
+56   backtracking 
+
+56   ch 
+
+56   display 
+
+56   e 
+
+56   good 
+
+56   iterators 
+
+56   learn 
+
+56   reads 
+
+56   within 
+
+57   abstract 
+
+57   contain 
+
+57   generate 
+
+57   graphs 
+
+57   half 
+
+57   oriented 
+
+57   push 
+
+57   rather 
+
+57   results 
+
+57   system 
+
+58   appendix 
+
+58   better 
+
+58   chain 
+
+58   characteristic 
+
+58   check 
+
+58   choose 
+
+58   constants 
+
+58   efficient 
+
+58   goal 
+
+58   shows 
+
+58   ways 
+
+59   additional 
+
+59   context 
+
+59   francisco 
+
+59   including 
+
+59   keep 
+
+59   likely 
+
+59   perform 
+
+59   public 
+
+59   still 
+
+60   decomposition 
+
+60   earlier 
+
+60   four 
+
+60   implementations 
+
+60   rand 
+
+60   require 
+
+60   times 
+
+60   why 
+
+61   consider 
+
+61   few 
+
+61   happens 
+
+61   implemented 
+
+61   inheritance 
+
+61   keyword 
+
+61   review 
+
+62   begins 
+
+62   computational 
+
+62   correct 
+
+62   definitions 
+
+62   inside 
+
+62   v 
+
+63   access 
+
+63   similar 
+
+64   allow 
+
+64   come 
+
+64   cycle 
+
+64   default 
+
+64   difficult 
+
+64   enough 
+
+64   limit 
+
+64   performance 
+
+64   running 
+
+64   san 
+
+64   works 
+
+65   determine 
+
+65   files 
+
+65   had 
+
+65   maze 
+
+65   programmers 
+
+65   token 
+
+66   designing 
+
+66   idea 
+
+66   indicates 
+
+66   local 
+
+66   now 
+
+66   put 
+
+66   square 
+
+66   total 
+
+67   declared 
+
+67   exports 
+
+67   free 
+
+67   larger 
+
+67   written 
+
+68   best 
+
+68   d 
+
+68   declare 
+
+68   exactly 
+
+68   hand 
+
+68   languages 
+
+68   linear 
+
+68   page 
+
+68   practice 
+
+68   turn 
+
+69   begin 
+
+69   behavior 
+
+69   described 
+
+69   specified 
+
+69   sum 
+
+70   able 
+
+70   adding 
+
+70   changes 
+
+70   rule 
+
+70   starting 
+
+71   examples 
+
+71   last 
+
+71   solve 
+
+71   specify 
+
+71   vec 
+
+72   machine 
+
+73   corresponding 
+
+73   down 
+
+73   illustrated 
+
+73   indicate 
+
+73   lexicon 
+
+73   null 
+
+74   allocated 
+
+74   entire 
+
+74   lines 
+
+74   making 
+
+74   model 
+
+74   think 
+
+74   top 
+
+75   book 
+
+75   declaration 
+
+75   parameters 
+
+76   arithmetic 
+
+76   initial 
+
+76   needs 
+
+77   difference 
+
+77   go 
+
+77   introduced 
+
+77   represents 
+
+77   root 
+
+77   statements 
+
+77   though 
+
+78   defines 
+
+78   over 
+
+78   smaller 
+
+79   grid 
+
+79   represented 
+
+79   selection 
+
+80   apply 
+
+80   body 
+
+80   details 
+
+80   less 
+
+80   rules 
+
+80   vectors 
+
+80   whose 
+
+81   defining 
+
+81   keys 
+
+81   sample 
+
+81   usually 
+
+82   english 
+
+82   letters 
+
+82   preceding 
+
+82   prototype 
+
+82   typically 
+
+83   containing 
+
+83   contents 
+
+83   editor 
+
+83   equal 
+
+83   includes 
+
+83   individual 
+
+84   address 
+
+84   appropriate 
+
+84   efficiency 
+
+84   false 
+
+84   without 
+
+85   allows 
+
+85   itself 
+
+85   writing 
+
+86   could 
+
+86   cout 
+
+86   dynamic 
+
+87   arrays 
+
+87   required 
+
+88   error 
+
+89   either 
+
+89   link 
+
+89   underlying 
+
+90   bits 
+
+90   cases 
+
+90   field 
+
+90   pattern 
+
+91   complete 
+
+91   create 
+
+91   state 
+
+91   store 
+
+92   effect 
+
+93   const 
+
+93   hierarchy 
+
+93   libraries 
+
+93   necessary 
+
+93   stored 
+
+93   strategies 
+
+93   until 
+
+94   assignment 
+
+94   iterator 
+
+95   arcs 
+
+95   consists 
+
+95   expressions 
+
+95   hash 
+
+96   back 
+
+96   exercise 
+
+96   implementing 
+
+96   instance 
+
+96   may 
+
+96   names 
+
+96   objects 
+
+96   strings 
+
+96   were 
+
+97   charstack 
+
+97   information 
+
+97   points 
+
+99   already 
+
+99   application 
+
+99   approach 
+
+99   char 
+
+99   language 
+
+99   large 
+
+99   problems 
+
+99   solution 
+
+99   user 
+
+100   easier 
+
+100   letter 
+
+100   reference 
+
+100   take 
+
+101   empty 
+
+101   exercises 
+
+101   well 
+
+102   understand 
+
+103   cpp 
+
+103   void 
+
+104   direction 
+
+104   length 
+
+104   own 
+
+105   common 
+
+105   mathematical 
+
+106   calling 
+
+106   main 
+
+106   parameter 
+
+106   step 
+
+106   was 
+
+107   been 
+
+107   bit 
+
+108   another 
+
+108   integers 
+
+108   know 
+
+108   space 
+
+108   stanford 
+
+109   once 
+
+109   template 
+
+110   copy 
+
+110   cursor 
+
+110   heap 
+
+110   just 
+
+110   original 
+
+111   private 
+
+112   arguments 
+
+112   suppose 
+
+112   trees 
+
+114   read 
+
+115   algorithms 
+
+115   game 
+
+115   while 
+
+116   applications 
+
+116   rational 
+
+117   look 
+
+117   random 
+
+118   long 
+
+118   sets 
+
+118   terms 
+
+118   test 
+
+118   where 
+
+119   add 
+
+119   along 
+
+119   start 
+
+120   structures 
+
+121   current 
+
+121   second 
+
+123   frame 
+
+123   output 
+
+123   path 
+
+124   always 
+
+124   whether 
+
+125   compiler 
+
+125   k 
+
+125   sequence 
+
+125   simply 
+
+126   standard 
+
+127   range 
+
+127   them 
+
+129   include 
+
+129   three 
+
+130   constructor 
+
+131   clients 
+
+131   next 
+
+131   stream 
+
+132   argument 
+
+132   particular 
+
+132   recursion 
+
+133   beginning 
+
+133   version 
+
+134   general 
+
+135   cell 
+
+136   often 
+
+137   client 
+
+138   change 
+
+138   easy 
+
+138   means 
+
+138   requires 
+
+139   instead 
+
+139   looks 
+
+140   b 
+
+140   calls 
+
+140   linked 
+
+141   map 
+
+141   might 
+
+141   sense 
+
+142   input 
+
+142   want 
+
+143   complexity 
+
+144   collection 
+
+144   index 
+
+144   run 
+
+144   several 
+
+145   appear 
+
+145   design 
+
+145   left 
+
+145   see 
+
+145   words 
+
+146   find 
+
+146   text 
+
+147   contains 
+
+147   true 
+
+148   takes 
+
+149   represent 
+
+150   numbers 
+
+151   programs 
+
+153   pointers 
+
+153   table 
+
+154   statement 
+
+155   computer 
+
+155   str 
+
+156   about 
+
+156   binary 
+
+156   diagram 
+
+156   shown 
+
+157   sort 
+
+159   both 
+
+159   o 
+
+159   part 
+
+159   search 
+
+159   single 
+
+160   queue 
+
+164   representation 
+
+166   move 
+
+166   their 
+
+167   based 
+
+167   defined 
+
+169   word 
+
+169   work 
+
+170   level 
+
+170   y 
+
+174   after 
+
+174   buffer 
+
+175   constant 
+
+176   different 
+
+178   uses 
+
+179   before 
+
+179   define 
+
+179   size 
+
+180   double 
+
+180   thus 
+
+181   appears 
+
+181   much 
+
+182   right 
+
+183   even 
+
+184   useful 
+
+185   given 
+
+186   follows 
+
+190   operation 
+
+191   definition 
+
+191   therefore 
+
+192   types 
+
+193   operators 
+
+193   such 
+
+194   between 
+
+198   every 
+
+198   get 
+
+202   programming 
+
+203   although 
+
+203   does 
+
+208   implement 
+
+208   result 
+
+210   many 
+
+210   nodes 
+
+212   also 
+
+213   fact 
+
+215   integer 
+
+219   up 
+
+221   important 
+
+223   loop 
+
+223   position 
+
+224   element 
+
+224   through 
+
+225   section 
+
+226   they 
+
+227   classes 
+
+228   simple 
+
+231   key 
+
+233   methods 
+
+237   form 
+
+238   end 
+
+239   out 
+
+240   case 
+
+242   variables 
+
+243   operations 
+
+244   file 
+
+244   name 
+
+244   returns 
+
+247   graph 
+
+257   characters 
+
+258   process 
+
+259   p 
+
+260   those 
+
+265   order 
+
+271   pointer 
+
+272   object 
+
+273   strategy 
+
+274   line 
+
+279   algorithm 
+
+279   memory 
+
+280   character 
+
+283   s 
+
+284   do 
+
+284   no 
+
+287   makes 
+
+288   used 
+
+288   way 
+
+294   return 
+
+294   t 
+
+296   some 
+
+297   make 
+
+301   other 
+
+303   library 
+
+304   should 
+
+304   x 
+
+307   i 
+
+307   there 
+
+310   must 
+
+311   then 
+
+314   h 
+
+317   expression 
+
+318   list 
+
+321   elements 
+
+321   than 
+
+322   most 
+
+331   but 
+
+336   however 
+
+339   possible 
+
+341   node 
+
+346   problem 
+
+349   structure 
+
+350   write 
+
+353   interface 
+
+355   call 
+
+358   variable 
+
+360   method 
+
+362   point 
+
+364   only 
+
+366   how 
+
+366   same 
+
+367   recursive 
+
+367   would 
+
+370   any 
+
+373   your 
+
+375   tree 
+
+378   because 
+
+378   stack 
+
+383   functions 
+
+388   need 
+
+392   into 
+
+394   these 
+
+396   new 
+
+398   when 
+
+401   has 
+
+409   will 
+
+410   operator 
+
+412   like 
+
+416   data 
+
+417   figure 
+
+418   chapter 
+
+419   array 
+
+419   number 
+
+420   called 
+
+422   first 
+
+429   or 
+
+437   time 
+
+441   values 
+
+451   set 
+
+457   its 
+
+466   int 
+
+469   vector 
+
+472   code 
+
+483   using 
+
+490   type 
+
+492   two 
+
+493   what 
+
+495   more 
+
+510   implementation 
+
+511   not 
+
+514   all 
+
+527   so 
+
+537   following 
+
+613   string 
+
+627   use 
+
+677   have 
+
+680   program 
+
+692   example 
+
+695   each 
+
+703   one 
+
+715   n 
+
+839   at 
+
+843   on 
+
+889   with 
+
+899   from 
+
+928   value 
+
+943   be 
+
+953   can 
+
+979   c 
+
+990   class 
+
+1112   function 
+
+1192   an 
+
+1226   by 
+
+1242   if 
+
+1420   which 
+
+1519   are 
+
+1814   it 
+
+1854   this 
+
+2098   as 
+
+2453   for 
+
+2831   and 
+
+3139   you 
+
+4062   that 
+
+4239   is 
+
+5403   in 
+
+5870   a 
+
+6497   to 
+
+6916   of 
+
+19582   the 
+

@@ -1,0 +1,4 @@
+﻿  CodePlayground.cpp
+C:\Users\Hanzemeng\Desktop\PlayGround\PlayCode\CodePlayground\CodePlayground\CodePlayground.cpp(34,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Hanzemeng\Desktop\PlayGround\PlayCode\CodePlayground\CodePlayground\CodePlayground.cpp(83,30): warning C4018: '<': signed/unsigned mismatch
+  CodePlayground.vcxproj -> C:\Users\Hanzemeng\Desktop\PlayGround\PlayCode\CodePlayground\Debug\CodePlayground.exe
